@@ -1,0 +1,21 @@
+body {
+  line-height: 1.65;
+}
+
+h1,
+h2,
+h3 {
+  letter-spacing: 0;
+}
+
+.navbar {
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.quarto-title-banner {
+  margin-bottom: 1.5rem;
+}
+
+main.content {
+  max-width: 52rem;
+}
