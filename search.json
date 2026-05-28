@@ -4,7 +4,7 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "The table below lists my current courses at Osnabrück University of Applied Sciences.\n\n\n\nCourse\nLevel\nSemester\n\n\n\n\nDigitization and Programming\nBachelor\n1\n\n\nProblem Solving with Artificial Intelligence\nBachelor\n2\n\n\nDigital Lab\nBachelor\n4/5\n\n\nApplications of Artificial Intelligence\nMaster\n1\n\n\nBig Data Analytics\nMaster\n2\n\n\n\nFurthermore, I offer the following courses in co-supervision with two colleagues:\n\n\n\nCourse\nLevel\nSemester\n\n\n\n\nTools for Market and Social Research\nBachelor\n2\n\n\nPractice for Market and Social Research\nBachelor\n3\n\n\nProject Market and Social Research\nBachelor\n4\n\n\nEmpirical Work\nMaster\n2\n\n\n\n\n\n\nI published the following books as accompaniment to my courses. They are available for free online and can be used in other courses as well:\n\nHands-On Computer Science\nHands-On Exploratory Data Analysis\nHands-On Problem Solving with Artificial Intelligence"
+    "text": "The table below lists my current courses at Osnabrück University of Applied Sciences.\n\n\n\nCourse\nLevel\nSemester\n\n\n\n\nDigitization and Programming\nBachelor\n1\n\n\nProblem Solving with Artificial Intelligence\nBachelor\n2\n\n\nDigital Lab\nBachelor\n4/5\n\n\nApplications of Artificial Intelligence\nMaster\n1\n\n\nBig Data Analytics\nMaster\n2\n\n\n\nFurthermore, I offer the following courses in co-supervision with two colleagues:\n\n\n\nCourse\nLevel\nSemester\n\n\n\n\nTools for Market and Social Research\nBachelor\n2\n\n\nPractice for Market and Social Research\nBachelor\n3\n\n\nProject Market and Social Research\nBachelor\n4\n\n\nEmpirical Work\nMaster\n2\n\n\n\n\n\n\nI published the following books as accompaniment to my courses. They are available for free online:\n\nHands-On Computer Science\nHands-On Exploratory Data Analysis\nHands-On Problem Solving with Artificial Intelligence"
   },
   {
     "objectID": "teaching.html#modules",
@@ -18,68 +18,61 @@
     "href": "teaching.html#books",
     "title": "Teaching",
     "section": "",
-    "text": "I published the following books as accompaniment to my courses. They are available for free online and can be used in other courses as well:\n\nHands-On Computer Science\nHands-On Exploratory Data Analysis\nHands-On Problem Solving with Artificial Intelligence"
+    "text": "I published the following books as accompaniment to my courses. They are available for free online:\n\nHands-On Computer Science\nHands-On Exploratory Data Analysis\nHands-On Problem Solving with Artificial Intelligence"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "German version (original)\n\n\n\nEnglish version (dubbed with ElevenLabs AI)"
+    "text": "Thanks for visiting my academic website. I hope you find the information you are looking for. If not, please feel free to contact me."
   },
   {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
+    "objectID": "index.html#current-projects",
+    "href": "index.html#current-projects",
     "title": "Home",
-    "section": "Research Interests",
-    "text": "Research Interests\n\ncomputational social science\nartificial intelligence in higher education\ndigital methods and text analysis\nreproducible research and teaching workflows"
-  },
-  {
-    "objectID": "index.html#current-work",
-    "href": "index.html#current-work",
-    "title": "Home",
-    "section": "Current Work",
-    "text": "Current Work\nMy current work focuses on how data-driven and AI-based methods can be used in teaching, research, and public communication without losing sight of transparency, methodological care, and institutional constraints."
+    "section": "Current Projects",
+    "text": "Current Projects\nI am currently curious about how AI can help make teaching more accessible and inclusive. One goal is to create different AI-dubbed of the same lecture. The two videos below show an example from a Science Slam I held. The version on the left is the original German version, while the version on the right is an English dub created with ElevenLabs AI. The videos are available on YouTube.\n\n\nGerman version (original)\n\n\n\nEnglish version"
   },
   {
     "objectID": "index.html#contact",
     "href": "index.html#contact",
     "title": "Home",
     "section": "Contact",
-    "text": "Contact\nPlease replace this section with your institutional contact details, office location, and links to your profiles."
+    "text": "Contact\nReach out to me via email at n.meseth[at]hs-osnabrueck.de. If you want my latest updates, follow me on LinkedIn."
   },
   {
     "objectID": "cv.html",
     "href": "cv.html",
-    "title": "CV",
+    "title": "Curriculum Vitae",
     "section": "",
     "text": "since 2016: Professor of Information Systems, Osnabrück University of Applied Sciences"
   },
   {
     "objectID": "cv.html#current-position",
     "href": "cv.html#current-position",
-    "title": "CV",
+    "title": "Curriculum Vitae",
     "section": "",
     "text": "since 2016: Professor of Information Systems, Osnabrück University of Applied Sciences"
   },
   {
     "objectID": "cv.html#education",
     "href": "cv.html#education",
-    "title": "CV",
+    "title": "Curriculum Vitae",
     "section": "Education",
     "text": "Education\n\nDegree, institution, year\nDegree, institution, year"
   },
   {
     "objectID": "cv.html#academic-positions",
     "href": "cv.html#academic-positions",
-    "title": "CV",
+    "title": "Curriculum Vitae",
     "section": "Academic Positions",
     "text": "Academic Positions\n\nPosition, institution, years\nPosition, institution, years"
   },
   {
     "objectID": "cv.html#service-and-memberships",
     "href": "cv.html#service-and-memberships",
-    "title": "CV",
+    "title": "Curriculum Vitae",
     "section": "Service and Memberships",
     "text": "Service and Memberships\n\nEditorial or reviewing work\nAcademic associations\nCommittees or institutional roles"
   },
@@ -102,7 +95,7 @@
     "href": "research.html#publications",
     "title": "Research",
     "section": "Publications",
-    "text": "Publications\n\n2025\n\nKI-Assistenten – die Zukunft des smarten Einkaufs?"
+    "text": "Publications\n\nMeseth, N., & Zmijewski, P. “KI-Assistenten – die Zukunft des smarten Einkaufs?” Wissen Hoch N (2025). doi:10.60479/T9KE-KJ76\nHömmen, E., Meseth, N., & Zmijewski, P. “Ein Framework für den Einsatz generativer KI-Modelle zur Erzeugung von Lebensmittelverpackungsdesigns” (2024). doi:10.48769/OPUS-6762\nZmijewski, P., & Meseth, N. “Optimierung einer stochastischen MRP-Simulation unter Anwendung der Bayes’schen Optimierung.” 20. ASIM Fachtagung Simulation in Produktion und Logistik (2023), p. 373. doi:10.22032/DBT.57779\nZmijewski, P., & Meseth, N. “SimBO – a Framework for Simulation-Based Optimization Using Bayesian Optimization.” Communications of the ECMS, 37 (2023), p. 7. Link\nZmijewski, P., & Meseth, N. “Evaluation of Bayesian Optimization Applied to Discrete-Event Simulation” (2020).\nKirchhof, P., & Meseth, N. “A Survey on the Use of Simulation in German Healthcare.” Proceedings of the 2012 Winter Simulation Conference (WSC) (2012), pp. 1–10. doi:10.1109/WSC.2012.6465026\nMeseth, N., Kirchhof, P., & Witte, T. “XML-Based DEVS Modeling and Interpretation.” Proceedings of the 2009 Spring Simulation Multiconference (SpringSim ‘09) (2009).\nKirchhof, P., Meseth, N., & Witte, T. “Simulation Based Evaluation of the Workload Control Concept for a Company of the Automobile Industry.” 2008 Winter Simulation Conference (WSC) (2008), pp. 1856–1862. doi:10.1109/WSC.2008.4736275\nMeseth, N., Kirchhof, P., & Witte, T. “An XML-Based Language for DEVS Components.” 2008 Winter Simulation Conference (WSC) (2008), p. 2948. doi:10.1109/WSC.2008.4736438"
   },
   {
     "objectID": "research.html#talks-and-presentations",
@@ -123,6 +116,6 @@
     "href": "research.html#thesis-supervision",
     "title": "Research",
     "section": "Thesis Supervision",
-    "text": "Thesis Supervision\n\n\n\nYear\nTitle\nType\nLinks\n\n\n\n\n2026\nEntwicklung und Evaluierung von Vorhersagemodellen für die Performance von Social-Media-Beiträgen mittels AutoML [..]\nMaster’s Thesis\n\n\n\n2026\nEntwicklung einer LLM-basierten Natural Language Processing-Pipeline zur strukturierten Analyse von Chats mit einem virtuellen Einkaufsassistenten\nBachelor’s Thesis\nGitHub Repository\n\n\n2026\n\n\n\n\n\n2026"
+    "text": "Thesis Supervision\nThe table lists a selection of the most recent theses I supervised.\n\n\n\n\n\n\n\n\n\nYear\nTitle\nLevel\nLinks\n\n\n\n\n2026\nEntwicklung und Evaluierung von Vorhersagemodellen für die Performance von Social-Media-Beiträgen mittels AutoML [..]\nMaster\n\n\n\n2026\nEntwicklung einer LLM-basierten Natural Language Processing-Pipeline zur strukturierten Analyse von Chats mit einem virtuellen Einkaufsassistenten\nBachelor\n\n\n\n2026\n\n\n\n\n\n2026"
   }
 ]
