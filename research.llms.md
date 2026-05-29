@@ -1,5 +1,7 @@
 # Research
 
+Current research activities of Prof. Dr. Nicolas Meseth. Includes projects, publications, talks, and thesis supervision.
+
 ## Projects
 
 My current research project is called **InVerBio**. Within this project, my team and I explore how an AI-based virtual shopping assistant can help in the context of contactless smart stores. Learn more through the links below.

@@ -2,7 +2,7 @@
 
 ## Pages
 
-- [teaching](https://nicolasmeseth.de/teaching.llms.md)
+- [Teaching](https://nicolasmeseth.de/teaching.llms.md)
 - [Home](https://nicolasmeseth.de/index.llms.md)
 - [Curriculum Vitae](https://nicolasmeseth.de/cv.llms.md)
 - [Research](https://nicolasmeseth.de/research.llms.md)

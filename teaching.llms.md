@@ -1,5 +1,7 @@
 # Teaching
 
+Current teaching activities of Prof. Dr. Nicolas Meseth. Includes offered courses, materials, and text books.
+
 ## Modules
 
 The table below lists my current courses at Osnabrück University of Applied Sciences.
