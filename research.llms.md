@@ -28,8 +28,6 @@ My current research project is called **InVerBio**. Within this project, my team
 
 - **Meseth, N.**, Kirchhof, P., & Witte, T. “An XML-Based Language for DEVS Components.” *2008 Winter Simulation Conference (WSC)* (2008), p. 2948. [doi:10.1109/WSC.2008.4736438](https://doi.org/10.1109/WSC.2008.4736438)
 
-## Talks and Presentations
-
 ## News & Media
 
 - [Sieht so die Zukunft aus? Einkaufen mit KI im Selbsttest im Farmely-Shop in Osnabrück](https://www.noz.de/lokales/osnabrueck/artikel/einkaufen-mit-ki-der-smart-store-farmely-in-osnabrueck-im-test-49483420)
