@@ -21,25 +21,32 @@
     "text": "Books\nI published the following books as accompaniment to my courses. They are available for free online:\n\nHands-On Computer Science\nHands-On Exploratory Data Analysis\nHands-On Problem Solving with Artificial Intelligence"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
+    "objectID": "posts/ki-im-supermarkt/index.html",
+    "href": "posts/ki-im-supermarkt/index.html",
+    "title": "When AI Pushes the Shopping Cart",
     "section": "",
-    "text": "Thanks for visiting my academic website. I hope you find the information you are looking for. If not, please feel free to contact me."
+    "text": "Last week I stood in an Osnabrück grocery store, tablet in hand, discussing with an AI whether I should buy Gouda or Emmental. What sounds like a scene from a science fiction film is already reality — and exactly the scenario we have been researching for over a year in our InVerBio project."
   },
   {
-    "objectID": "index.html#current-projects",
-    "href": "index.html#current-projects",
-    "title": "Home",
-    "section": "Current Projects",
-    "text": "Current Projects\nI am currently curious about how AI can help make teaching more accessible and inclusive. One goal is to create different AI-dubbed of the same lecture. The two videos below show an example from a Science Slam I held. The version on the left is the original German version, while the version on the right is an English dub created with ElevenLabs AI. The videos are available on YouTube.\n\n\nGerman version (original)\n\n\n\nEnglish version"
+    "objectID": "posts/ki-im-supermarkt/index.html#what-is-inverbio",
+    "href": "posts/ki-im-supermarkt/index.html#what-is-inverbio",
+    "title": "When AI Pushes the Shopping Cart",
+    "section": "What is InVerBio?",
+    "text": "What is InVerBio?\nInVerBio stands for Intelligent Virtual Advisory Assistant in Organic Food Retail. The goal of the project is to understand how an AI-powered assistant can help people while shopping — not by simply displaying product information, but through genuine, context-aware conversation."
   },
   {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Home",
-    "section": "Contact",
-    "text": "Contact\nReach out to me via email at n.meseth[at]hs-osnabrueck.de. If you want my latest updates, follow me on LinkedIn."
+    "objectID": "posts/ki-im-supermarkt/index.html#what-have-we-learned-so-far",
+    "href": "posts/ki-im-supermarkt/index.html#what-have-we-learned-so-far",
+    "title": "When AI Pushes the Shopping Cart",
+    "section": "What have we learned so far?",
+    "text": "What have we learned so far?\nThree things stand out in particular:\n1. Trust requires transparency. Users accept AI recommendations far more readily when they can understand why a recommendation is being made. “This product has less packaging” is more persuasive than “I recommend this.”\n2. Tone matters enormously. An overly formal assistant feels cold; an overly casual one feels untrustworthy. Finding the right balance is harder than expected.\n3. People share more than asked. Many users voluntarily disclose personal context — allergies, preferences, household size — without being prompted to do so."
+  },
+  {
+    "objectID": "posts/ki-im-supermarkt/index.html#what-comes-next",
+    "href": "posts/ki-im-supermarkt/index.html#what-comes-next",
+    "title": "When AI Pushes the Shopping Cart",
+    "section": "What comes next?",
+    "text": "What comes next?\nThis summer we are launching a larger field study in which we will test the system in a real retail environment over several weeks. Insights will feed directly into the ongoing development of the assistant.\nFor more on the project, visit the InVerBio project page."
   },
   {
     "objectID": "cv.html",
@@ -54,6 +61,34 @@
     "title": "Curriculum Vitae",
     "section": "",
     "text": "since 2016: Professor of Information Systems, Osnabrück University of Applied Sciences"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "When AI Pushes the Shopping Cart\n\n\n\nAI\n\nResearch\n\nInVerBio\n\n\n\nA field report from the Farmely store in Osnabrück — and what we learned about human-AI interaction along the way.\n\n\n\n\n\n10 April 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Thanks for visiting my academic website. I hope you find the information you are looking for. If not, please feel free to contact me."
+  },
+  {
+    "objectID": "index.html#current-projects",
+    "href": "index.html#current-projects",
+    "title": "Home",
+    "section": "Current Projects",
+    "text": "Current Projects\nI am curious about how AI can help make teaching more accessible and inclusive. Starting in fall 2026, I will explore this topic in the project FLEX3, funded by the Flexcellence Program of the University of Applied Sciences Osnabrück.\nOne goal of this project is to create different AI-dubbed of the same lecture. The two videos below show an example from a Science Slam I held. The version on the left is the original German version, while the version on the right is an English dub created with ElevenLabs AI. The videos are available on YouTube.\n\n\nGerman version (original)\n\n\n\nEnglish version"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Home",
+    "section": "Contact",
+    "text": "Contact\nReach out to me via email at n.meseth[at]hs-osnabrueck.de. If you want my latest updates, follow me on LinkedIn."
   },
   {
     "objectID": "research.html",

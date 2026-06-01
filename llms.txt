@@ -3,6 +3,8 @@
 ## Pages
 
 - [Teaching](https://nicolasmeseth.de/teaching.llms.md)
-- [Home](https://nicolasmeseth.de/index.llms.md)
+- [When AI Pushes the Shopping Cart](https://nicolasmeseth.de/posts/ki-im-supermarkt/index.llms.md)
 - [Curriculum Vitae](https://nicolasmeseth.de/cv.llms.md)
+- [Blog](https://nicolasmeseth.de/blog.llms.md)
+- [Home](https://nicolasmeseth.de/index.llms.md)
 - [Research](https://nicolasmeseth.de/research.llms.md)
