@@ -18,6 +18,10 @@ project:
 website:
   title: "Prof. Dr. Nicolas Meseth"
   site-url: "https://nicolasmeseth.de"
+  # Monogramm NM, Hochschulblau. Quelle ist das SVG -- die PNG daneben
+  # sind daraus erzeugt (Skript siehe images/LIESMICH.md) und dienen als
+  # Rueckfall fuer aeltere Browser und als Symbol auf dem iOS-Startbildschirm.
+  favicon: images/favicon.svg
   # announcement: 
   #   icon: info-circle
   #   dismissable: true
@@ -57,3 +61,10 @@ format:
       - text: |
           <script data-goatcounter="https://nmeseth.goatcounter.com/count"
                   async src="//gc.zgo.at/count.js"></script>
+      # Rueckfall fuer Browser ohne SVG-Favicon und das iOS-Symbol; Quarto
+      # kennt dafuer kein eigenes Feld. Die Pfade stehen absolut, weil diese
+      # Zeilen in jede Seite kopiert werden -- Quarto rechnet sie beim
+      # Rendern je Unterseite in relative um.
+      - text: |
+          <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32.png">
+          <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
