@@ -1,5 +1,14 @@
 project:
   type: website
+  render:
+    # Alles ausser den internen Statusdateien je Beitrag. Die .gitignore
+    # allein genuegt dafuer nicht: sie haelt STATUS.md aus dem Quell-Repo,
+    # aber "quarto publish" schiebt _site/ -- und dorthin rendert Quarto
+    # jede .md im Projekt, ob getrackt oder nicht. Ohne diese Zeile wuerde
+    # aus jeder STATUS.md eine oeffentliche Seite mit Reichweitenzahlen.
+    - "*.qmd"
+    - "drafts/**/*.qmd"
+    - "posts/**/*.qmd"
   resources:
     # Ohne diese beiden Zeilen verliert jeder Build die Domain
     # (CNAME) und laesst GitHub die Seite durch Jekyll schicken.
