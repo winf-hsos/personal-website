@@ -2,6 +2,23 @@
 
 Summary of the Curriculum Vitae of Prof. Dr. Nicolas Meseth
 
-## Current Position
+## Professional Experience
 
-- since 2016: [Professor of Information Systems](https://www.hs-osnabrueck.de/prof-dr-nicolas-meseth/), Osnabrück University of Applied Sciences
+- **since 2016** — [Professor of Information Systems](https://www.hs-osnabrueck.de/prof-dr-nicolas-meseth/), Osnabrück University of Applied Sciences  
+  Artificial intelligence and its applications in the food industry, big data analytics, software prototyping
+
+- **2012–2016** — Manager, Deloitte, Düsseldorf
+
+- **2009–2012** — Principal Business Intelligence Consultant, SDX AG, Frankfurt Rhine-Main  
+  BI architectures and solutions, requirements engineering, testing, release and support, consulting
+
+- **2006–2009** — Research Assistant, Osnabrück University  
+  Doctoral research, research projects, teaching
+
+## Education
+
+- **2011** — Dr. rer. pol., Osnabrück University
+
+- **2003** — Information Systems, University of South Florida
+
+- **2001–2006** — M.Sc. in Information Systems, Osnabrück University
