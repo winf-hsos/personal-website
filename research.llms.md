@@ -34,9 +34,40 @@ My current research project is called **InVerBio**. Within this project, my team
 
 ## Thesis Supervision
 
-The table lists a selection of the most recent theses I supervised.
+The table lists the theses I supervised as first examiner, most recent first. Where a thesis was written in cooperation with a company, the company’s name is omitted from the title.
 
 | Year | Title | Level | Links |
 |----|----|----|----|
 | 2026 | Entwicklung und Evaluierung von Vorhersagemodellen für die Performance von Social-Media-Beiträgen mittels AutoML \[..\] | Master |  |
 | 2026 | Entwicklung einer LLM-basierten Natural Language Processing-Pipeline zur strukturierten Analyse von Chats mit einem virtuellen Einkaufsassistenten | Bachelor | [](https://github.com/PhilipK4/bachelor-thesis-llm-chat-analysis) |
+| 2026 | Konzeption und prototypische Implementierung einer LLM-Schnittstelle für den Zugriff auf SAP-Produktdaten | Bachelor |  |
+| 2026 | LLM-Based AI Assistance Systems for Business Processes in Wholesale Plant Distribution \[..\] | Bachelor |  |
+| 2026 | Potenzialanalyse von Demand Sensing in der taktischen Bedarfsplanung eines Molkereiunternehmens | Bachelor |  |
+| 2026 | Prototypische Implementierung und Evaluation eines Recommender-Systems \[..\] | Bachelor |  |
+| 2025 | Der Einsatz von ChatGPT für die Suchmaschinenoptimierung (SEO) in Gartenbaubetrieben | Bachelor |  |
+| 2025 | Entwicklung und Evaluierung eines KI-basierten Bildklassifizierungssystems für die Fleischindustrie | Bachelor |  |
+| 2025 | Grid-Based Polycultural Simulation | Bachelor |  |
+| 2025 | Konzeption einer ESG-App als Software-as-a-Service unter Verwendung von SAP UI5 und CSRD-Vorgaben | Bachelor |  |
+| 2025 | Zugriff auf relationale Produktdatenbanken durch KI-basierte Einkaufsassistenten mithilfe von Retrieval Augmented Generation | Bachelor |  |
+| 2024 | Einsatz generativer KI-Modelle für die Erstellung von Lebensmittelverpackungsdesigns | Master |  |
+| 2024 | Conception of an assistance system for the evaluation of straw quality | Bachelor |  |
+| 2023 | Einführung und Evaluation des Performance Marketing \[..\] | Bachelor |  |
+| 2023 | Optimierung der Material- und Kapazitätsbedarfsplanung durch die Integration der Produktionsprogrammplanung in einem multinationalen Unternehmen | Bachelor |  |
+| 2022 | Bewertung von Chatbot-Softwarelösungen und prototypische Umsetzung in ausgewählten Anwendungsfällen des Food Future Labs | Master |  |
+| 2022 | Chatbots für die Verringerung von Lebensmittelverschwendung: Konzeption und Umsetzung eines funktionalen Prototyps | Master |  |
+| 2022 | Die Integration KI-gestützter Bilderkennung für die Ersatzteilidentifikation \[..\] | Master |  |
+| 2022 | Entwicklung und Vergleich von verschiedenen Methoden zur Kalibrierung eines Systems zur Lokalisierung von Milchkühen im Stall | Master |  |
+| 2022 | Konzeptionsentwicklung zur nachhaltigen Optimierung der Artikeletikettierung für Industriekunden unter Berücksichtigung informations- und produktionstechnischer Faktoren \[..\] | Master |  |
+| 2022 | Ein kennzahlenorientiertes Konzept zur Steigerung der Markenbekanntheit \[..\] auf Instagram | Bachelor |  |
+| 2022 | Einsatz generativer KI-Modelle für die Erzeugung von Lebensmittelverpackungsdesigns | Bachelor |  |
+| 2021 | Anforderungsanalyse und Umsetzungskonzept mit Scrum für das Campusfoods-Portal | Bachelor |  |
+| 2021 | Anwendung von Transfer Learning mithilfe von Azure Custom Vision und Entwicklung eines web-basierten Prototyps zur Gesamtkeimzahlbestimmung in Sauerteigproben | Bachelor |  |
+| 2021 | Anwendungsmöglichkeiten für die Analyse tagesaktueller Daten in der Landwirtschaft am Beispiel der Hähnchenmast | Bachelor |  |
+| 2021 | Konzeptionierung und Implementierung eines App-Backends zur kontaktlosen Entnahme von Produkten aus Abholstationen in Verbindung mit Shopify | Bachelor |  |
+| 2020 | Verbesserung der Absatzprognosen für Lebensmittel durch Algorithmen maschinellen Lernens \[..\] | Master |  |
+| 2020 | Online-Verkauf von Lebensmitteln: Anforderungsanalyse und Anbieterauswahl für Click & Collect und lokale Auslieferung | Bachelor |  |
+| 2019 | Datenanalyse des Social Media Marketing einer Lebensmittelmarke im deutschen Einzelhandel | Bachelor |  |
+| 2019 | Maßnahmengestützte Optimierung der Nutzungsintensität von Software-as-a-Service-Lösungen \[..\] | Bachelor |  |
+| 2018 | Anforderungs- und Marktanalyse zur Findung einer Standardsoftware für die kurzfristige Absatzprognose im Frischlebensmittelsektor \[..\] | Bachelor |  |
+| 2018 | Konzeption und prototypische Umsetzung einer Reportinganwendung für einen Lieferdienst von Bioprodukten | Bachelor |  |
+| 2018 | Neue Wege im Vertrieb von Landmaschinen – Potenzial von Digitalisierung und E-Commerce im Agrartechnikhandel | Bachelor |  |
