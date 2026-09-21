@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "The table below lists my current courses at Osnabrück University of Applied Sciences.\n\n\n\nCourse\nLevel\nSemester\n\n\n\n\nDigitization and Programming\nBachelor\n1\n\n\nProblem Solving with Artificial Intelligence\nBachelor\n2\n\n\nDigital Lab\nBachelor\n4/5\n\n\nApplications of Artificial Intelligence\nMaster\n1\n\n\nBig Data Analytics\nMaster\n2\n\n\n\nFurthermore, I offer the following courses in co-supervision with two colleagues:\n\n\n\nCourse\nLevel\nSemester\n\n\n\n\nTools for Market and Social Research\nBachelor\n2\n\n\nPractice for Market and Social Research\nBachelor\n3\n\n\nProject Market and Social Research\nBachelor\n4\n\n\nEmpirical Work\nMaster\n2"
+  },
+  {
+    "objectID": "teaching.html#modules",
+    "href": "teaching.html#modules",
+    "title": "Teaching",
+    "section": "",
+    "text": "The table below lists my current courses at Osnabrück University of Applied Sciences.\n\n\n\nCourse\nLevel\nSemester\n\n\n\n\nDigitization and Programming\nBachelor\n1\n\n\nProblem Solving with Artificial Intelligence\nBachelor\n2\n\n\nDigital Lab\nBachelor\n4/5\n\n\nApplications of Artificial Intelligence\nMaster\n1\n\n\nBig Data Analytics\nMaster\n2\n\n\n\nFurthermore, I offer the following courses in co-supervision with two colleagues:\n\n\n\nCourse\nLevel\nSemester\n\n\n\n\nTools for Market and Social Research\nBachelor\n2\n\n\nPractice for Market and Social Research\nBachelor\n3\n\n\nProject Market and Social Research\nBachelor\n4\n\n\nEmpirical Work\nMaster\n2"
+  },
+  {
+    "objectID": "teaching.html#books",
+    "href": "teaching.html#books",
+    "title": "Teaching",
+    "section": "Books",
+    "text": "Books\nI published the following books as accompaniment to my courses. They are available for free online:\n\nHands-On Computer Science\nHands-On Exploratory Data Analysis\nHands-On Problem Solving with Artificial Intelligence"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Prof. Dr. Nicolas Meseth",
+    "section": "",
+    "text": "Thanks for visiting my academic website. I am a professor at the University of Applied Sciences Osnabrück. I hope you find the information you are looking for. If not, please feel free to contact me."
+  },
+  {
+    "objectID": "index.html#what-im-up-to",
+    "href": "index.html#what-im-up-to",
+    "title": "Prof. Dr. Nicolas Meseth",
+    "section": "What I’m up to",
+    "text": "What I’m up to\nI was recently interviewed in “Ask your Prof!” format. Click on the image to view it on Instagram."
+  },
+  {
+    "objectID": "index.html#latest-project-flex3",
+    "href": "index.html#latest-project-flex3",
+    "title": "Prof. Dr. Nicolas Meseth",
+    "section": "Latest Project: FLEX3",
+    "text": "Latest Project: FLEX3\nI am curious about how AI can help make teaching more accessible and inclusive. Starting in fall 2026, I will explore this topic in the project FLEX3, funded by the Flexcellence Program of the University of Applied Sciences Osnabrück.\nOne goal of this project is to create different AI-dubbed versions of the same lecture recording. The two videos below show an example from a Science Slam I held in 2025. The version on the left is the original German version, while the version on the right is an English dub created with ElevenLabs.io. The videos are available on YouTube.\n\n\nGerman version (original)\n\n\n\nEnglish version"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "since 2016: Professor of Information Systems, Osnabrück University of Applied Sciences"
+  },
+  {
+    "objectID": "cv.html#current-position",
+    "href": "cv.html#current-position",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "since 2016: Professor of Information Systems, Osnabrück University of Applied Sciences"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "The first post is coming soon.\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "drafts/ki-im-supermarkt/index.html",
+    "href": "drafts/ki-im-supermarkt/index.html",
+    "title": "When AI Pushes the Shopping Cart",
+    "section": "",
+    "text": "Last week I stood in an Osnabrück grocery store, tablet in hand, discussing with an AI whether I should buy Gouda or Emmental. What sounds like a scene from a science fiction film is already reality — and exactly the scenario we have been researching for over a year in our InVerBio project."
+  },
+  {
+    "objectID": "drafts/ki-im-supermarkt/index.html#what-is-inverbio",
+    "href": "drafts/ki-im-supermarkt/index.html#what-is-inverbio",
+    "title": "When AI Pushes the Shopping Cart",
+    "section": "What is InVerBio?",
+    "text": "What is InVerBio?\nInVerBio stands for Intelligent Virtual Advisory Assistant in Organic Food Retail. The goal of the project is to understand how an AI-powered assistant can help people while shopping — not by simply displaying product information, but through genuine, context-aware conversation."
+  },
+  {
+    "objectID": "drafts/ki-im-supermarkt/index.html#what-have-we-learned-so-far",
+    "href": "drafts/ki-im-supermarkt/index.html#what-have-we-learned-so-far",
+    "title": "When AI Pushes the Shopping Cart",
+    "section": "What have we learned so far?",
+    "text": "What have we learned so far?\nThree things stand out in particular:\n1. Trust requires transparency. Users accept AI recommendations far more readily when they can understand why a recommendation is being made. “This product has less packaging” is more persuasive than “I recommend this.”\n2. Tone matters enormously. An overly formal assistant feels cold; an overly casual one feels untrustworthy. Finding the right balance is harder than expected.\n3. People share more than asked. Many users voluntarily disclose personal context — allergies, preferences, household size — without being prompted to do so."
+  },
+  {
+    "objectID": "drafts/ki-im-supermarkt/index.html#what-comes-next",
+    "href": "drafts/ki-im-supermarkt/index.html#what-comes-next",
+    "title": "When AI Pushes the Shopping Cart",
+    "section": "What comes next?",
+    "text": "What comes next?\nThis summer we are launching a larger field study in which we will test the system in a real retail environment over several weeks. Insights will feed directly into the ongoing development of the assistant.\nFor more on the project, visit the InVerBio project page."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My current research project is called InVerBio. Within this project, my team and I explore how an AI-based virtual shopping assistant can help in the context of contactless smart stores. Learn more through the links below.\n\nProject Website"
+  },
+  {
+    "objectID": "research.html#projects",
+    "href": "research.html#projects",
+    "title": "Research",
+    "section": "",
+    "text": "My current research project is called InVerBio. Within this project, my team and I explore how an AI-based virtual shopping assistant can help in the context of contactless smart stores. Learn more through the links below.\n\nProject Website"
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\n\nMeseth, N., & Zmijewski, P. “KI-Assistenten – die Zukunft des smarten Einkaufs?” Wissen Hoch N (2025). doi:10.60479/T9KE-KJ76\nHömmen, E., Meseth, N., & Zmijewski, P. “Ein Framework für den Einsatz generativer KI-Modelle zur Erzeugung von Lebensmittelverpackungsdesigns” (2024). doi:10.48769/OPUS-6762\nZmijewski, P., & Meseth, N. “Optimierung einer stochastischen MRP-Simulation unter Anwendung der Bayes’schen Optimierung.” 20. ASIM Fachtagung Simulation in Produktion und Logistik (2023), p. 373. doi:10.22032/DBT.57779\nZmijewski, P., & Meseth, N. “SimBO – a Framework for Simulation-Based Optimization Using Bayesian Optimization.” Communications of the ECMS, 37 (2023), p. 7. Link\nZmijewski, P., & Meseth, N. “Evaluation of Bayesian Optimization Applied to Discrete-Event Simulation” (2020).\nKirchhof, P., & Meseth, N. “A Survey on the Use of Simulation in German Healthcare.” Proceedings of the 2012 Winter Simulation Conference (WSC) (2012), pp. 1–10. doi:10.1109/WSC.2012.6465026\nMeseth, N., Kirchhof, P., & Witte, T. “XML-Based DEVS Modeling and Interpretation.” Proceedings of the 2009 Spring Simulation Multiconference (SpringSim ‘09) (2009).\nKirchhof, P., Meseth, N., & Witte, T. “Simulation Based Evaluation of the Workload Control Concept for a Company of the Automobile Industry.” 2008 Winter Simulation Conference (WSC) (2008), pp. 1856–1862. doi:10.1109/WSC.2008.4736275\nMeseth, N., Kirchhof, P., & Witte, T. “An XML-Based Language for DEVS Components.” 2008 Winter Simulation Conference (WSC) (2008), p. 2948. doi:10.1109/WSC.2008.4736438"
+  },
+  {
+    "objectID": "research.html#news-media",
+    "href": "research.html#news-media",
+    "title": "Research",
+    "section": "News & Media",
+    "text": "News & Media\n\nSieht so die Zukunft aus? Einkaufen mit KI im Selbsttest im Farmely-Shop in Osnabrück"
+  },
+  {
+    "objectID": "research.html#thesis-supervision",
+    "href": "research.html#thesis-supervision",
+    "title": "Research",
+    "section": "Thesis Supervision",
+    "text": "Thesis Supervision\nThe table lists a selection of the most recent theses I supervised.\n\n\n\n\n\n\n\n\n\nYear\nTitle\nLevel\nLinks\n\n\n\n\n2026\nEntwicklung und Evaluierung von Vorhersagemodellen für die Performance von Social-Media-Beiträgen mittels AutoML [..]\nMaster\n\n\n\n2026\nEntwicklung einer LLM-basierten Natural Language Processing-Pipeline zur strukturierten Analyse von Chats mit einem virtuellen Einkaufsassistenten\nBachelor\n\n\n\n2026\n\n\n\n\n\n2026"
+  }
+]
