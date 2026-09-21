@@ -40,5 +40,3 @@ The table lists a selection of the most recent theses I supervised.
 |----|----|----|----|
 | 2026 | Entwicklung und Evaluierung von Vorhersagemodellen für die Performance von Social-Media-Beiträgen mittels AutoML \[..\] | Master |  |
 | 2026 | Entwicklung einer LLM-basierten Natural Language Processing-Pipeline zur strukturierten Analyse von Chats mit einem virtuellen Einkaufsassistenten | Bachelor | [](https://github.com/PhilipK4/bachelor-thesis-llm-chat-analysis) |
-| 2026 |  |  |  |
-| 2026 |  |  |  |
