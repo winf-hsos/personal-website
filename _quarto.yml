@@ -1,0 +1,43 @@
+project:
+  type: website
+  resources:
+    # Ohne diese beiden Zeilen verliert jeder Build die Domain
+    # (CNAME) und laesst GitHub die Seite durch Jekyll schicken.
+    - CNAME
+    - .nojekyll
+
+website:
+  title: "Prof. Dr. Nicolas Meseth"
+  site-url: "https://nicolasmeseth.de"
+  # announcement: 
+  #   icon: info-circle
+  #   dismissable: true
+  #   content: "**Alert** - this is some information that you should pay attention to"
+  #   type: primary
+  #   position: below-navbar
+  llms-txt: true
+  navbar:
+    title: false
+    #logo: images/hs-logo.png
+    left:
+      - href: index.qmd
+        text: Home
+
+      - href: teaching.qmd
+        text: Teaching
+
+      - href: research.qmd
+        text: Research
+
+      - href: blog.qmd
+        text: Blog
+
+      - href: cv.qmd
+        text: CV
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    page-layout: article

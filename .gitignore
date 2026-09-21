@@ -1,0 +1,10 @@
+# Quarto baut hierhin; veroeffentlicht wird mit "quarto publish gh-pages".
+_site/
+.quarto/
+
+# Windows und OneDrive
+Thumbs.db
+desktop.ini
+
+/.quarto/
+**/*.quarto_ipynb

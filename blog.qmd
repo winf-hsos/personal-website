@@ -1,0 +1,15 @@
+---
+title: "Blog"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  fields: [date, title, description, categories]
+  date-format: "D MMMM YYYY"
+page-layout: full
+title-block-banner: false
+---
+
+::: {.callout-note appearance="minimal"}
+The first post is coming soon.
+:::

@@ -1,16 +1,9 @@
-# When AI Pushes the Shopping Cart
-
-AI
-
-Research
-
-InVerBio
-
-A field report from the Farmely store in Osnabrück — and what we learned about human-AI interaction along the way.
-
-Published
-
-April 10, 2026
+---
+title: "When AI Pushes the Shopping Cart"
+description: "A field report from the Farmely store in Osnabrück — and what we learned about human-AI interaction along the way."
+date: 2026-04-10
+categories: [AI, Research, InVerBio]
+---
 
 Last week I stood in an Osnabrück grocery store, tablet in hand, discussing with an AI whether I should buy Gouda or Emmental. What sounds like a scene from a science fiction film is already reality — and exactly the scenario we have been researching for over a year in our **InVerBio** project.
 
@@ -22,7 +15,7 @@ InVerBio stands for *Intelligent Virtual Advisory Assistant in Organic Food Reta
 
 Three things stand out in particular:
 
-**1. Trust requires transparency.** Users accept AI recommendations far more readily when they can understand *why* a recommendation is being made. “This product has less packaging” is more persuasive than “I recommend this.”
+**1. Trust requires transparency.** Users accept AI recommendations far more readily when they can understand *why* a recommendation is being made. "This product has less packaging" is more persuasive than "I recommend this."
 
 **2. Tone matters enormously.** An overly formal assistant feels cold; an overly casual one feels untrustworthy. Finding the right balance is harder than expected.
 

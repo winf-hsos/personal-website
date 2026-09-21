@@ -1,0 +1,57 @@
+---
+title: "Prof. Dr. Nicolas Meseth"
+about:
+  template: jolla
+  image: images/nicolas_meseth.webp
+  links:
+    - icon: envelope
+      text: E-Mail
+      href: mailto:n.meseth@hs-osnabrueck.de
+    - icon: bank
+      text: Academic Profile
+      href: https://www.hs-osnabrueck.de/prof-dr-nicolas-meseth/
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/nicolasmeseth/
+    - icon: github
+      text: GitHub
+      href: https://github.com/winf-hsos
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/@nicolasmeseth
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/nmeseth/
+---
+
+Thanks for visiting my academic website. I am a professor at the University of Applied Sciences Osnabrück. I hope you find the information you are looking for. If not, please feel free to contact me.
+
+## What I'm up to
+
+I was recently interviewed in "Ask your Prof!" format. Click on the image to view it on Instagram.
+
+::: {style="text-align: center;"}
+[![](images/nicolas_ask_your_prof.png){width="200px"}](https://www.instagram.com/reel/DVV_PWXDSuG/)
+:::
+
+## Latest Project: FLEX^3^
+
+I am curious about how AI can help make teaching more accessible and inclusive. Starting in fall 2026, I will explore this topic in the project **FLEX^3^**, funded by the [Flexcellence Program](https://www.hs-osnabrueck.de/texas/teilprojekte/flexcellence/) of the University of Applied Sciences Osnabrück. 
+
+One goal of this project is to create different AI-dubbed versions of the same lecture recording. The two videos below show an example from a Science Slam I held in 2025. The version on the left is the original German version, while the version on the right is an English dub created with [ElevenLabs.io](http://elevenlabs.io/). The videos are available on YouTube.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-lg-6}
+**German version (original)**
+
+{{< video https://www.youtube.com/watch?v=lqFtqrcBd2E >}}
+:::
+
+::: {.g-col-12 .g-col-lg-6}
+**English version**
+
+{{< video https://www.youtube.com/watch?v=aT6ozmsFWLQ >}}
+:::
+
+:::
