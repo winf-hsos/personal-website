@@ -50,3 +50,10 @@ format:
     css: styles.css
     toc: true
     page-layout: article
+    # Besucherzaehlung mit GoatCounter. Bewusst gewaehlt, weil es kein
+    # Cookie setzt und keine personenbezogenen Daten speichert -- deshalb
+    # hier nichts weiter einbinden. Auswertung: nmeseth.goatcounter.com
+    include-in-header:
+      - text: |
+          <script data-goatcounter="https://nmeseth.goatcounter.com/count"
+                  async src="//gc.zgo.at/count.js"></script>
