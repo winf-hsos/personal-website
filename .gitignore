@@ -8,3 +8,7 @@ desktop.ini
 
 /.quarto/
 **/*.quarto_ipynb
+
+# Interne Buchhaltung je Beitrag — gehoert nicht auf die oeffentliche Seite
+STATUS.md
+**/STATUS.md
