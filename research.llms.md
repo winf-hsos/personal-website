@@ -4,7 +4,15 @@ Current research activities of Prof. Dr. Nicolas Meseth. Includes projects, pu
 
 ## Projects
 
-My current research project is called **InVerBio**. Within this project, my team and I explore how an AI-based virtual shopping assistant can help in the context of contactless smart stores. Learn more through the links below.
+### FLEX³ – Anywhere, Anytime, Any Language
+
+Started in October 2026. FLEX³ develops a mobile, easy-to-use solution to stream lectures live, translate them into other languages with AI, and record them automatically. The transcripts then serve to generate summaries – including in plain language –, quizzes, and task lists. FLEX³ is one of three pilot projects selected from 17 proposals in the university’s Flexcellence program; I am its spokesperson.
+
+- [Project Website](https://www.hs-osnabrueck.de/texas/teilprojekte/flexcellence/)
+
+### InVerBio
+
+Within this project, my team and I explore how an AI-based virtual shopping assistant can help in the context of contactless smart stores.
 
 - [Project Website](https://www.hs-osnabrueck.de/inverbio/)
 
