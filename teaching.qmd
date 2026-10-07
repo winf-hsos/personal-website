@@ -25,11 +25,17 @@ Furthermore, I offer the following courses in co-supervision with two colleagues
 | [Empirical Work](https://www.hs-osnabrueck.de/en/module/44m0123/) | Master | 2 |
 
 
+## Course Websites
+
+Two of my courses have their own websites with all the material in one place, from the slides to the experiments and practice questions:
+
+- [LiFi Project](https://docs.lifi-project.de/) for *Digitization and Programming*, in which first-semester students build a device that sends files with light and learn along the way how computers represent, store, transfer and process information.
+- [Artificial Intelligence](https://ai.hands-on-computer-science.de/) for *Problem Solving with Artificial Intelligence* and *Applications of Artificial Intelligence*, which explains how an AI agent works, from the language model inside it down to the idea of learning from data, with an experiment in every session.
+
 ## Books
 
 I published the following books as accompaniment to my courses. They are available for free online:
 
 - [Hands-On Computer Science](https://cs.hands-on-computer-science.de/)
 - [Hands-On Exploratory Data Analysis](https://data.hands-on-computer-science.de/)
-- [Hands-On Problem Solving with Artificial Intelligence](https://ai.hands-on-computer-science.de/)
 

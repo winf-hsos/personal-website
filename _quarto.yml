@@ -29,6 +29,12 @@ website:
   #   type: primary
   #   position: below-navbar
   llms-txt: true
+  # Beitraege mit "draft: true" gar nicht erst bauen. Quarto laesst sie sonst
+  # nur aus Liste, Sitemap und Suche heraus, legt die Seite aber trotzdem in
+  # _site/ -- und "quarto publish" stellt sie dann unverlinkt online, egal
+  # wofuer veroeffentlicht wird. drafts/ki-im-supermarkt traegt bewusst kein
+  # "draft: true" und bleibt davon unberuehrt.
+  draft-mode: gone
   navbar:
     title: false
     #logo: images/hs-logo.png
