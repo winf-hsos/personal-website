@@ -6,6 +6,12 @@ I was recently interviewed in “Ask your Prof!” format. Click on the image to
 
 [![](images/nicolas_ask_your_prof.png)](https://www.instagram.com/reel/DVV_PWXDSuG/)
 
+## A Teaser for the LiFi Project
+
+In our first-semester module *Digitization and Programming*, students build a small device that sends a file from one laptop to another with nothing but light. This short teaser introduces the project, and it is my first attempt at a video that is entirely computer-animated: Claude Opus 5.5 wrote the code that draws every frame, while the voice, the music and the parrot artwork were generated with other AI tools.
+
+Everything about the project is on the [course website](https://docs.lifi-project.de/).
+
 ## Latest Project: FLEX³
 
 I am curious about how AI can help make teaching more accessible and inclusive. In October 2026, I started exploring this topic in the project **FLEX³**, funded by the Flexcellence program of the University of Applied Sciences Osnabrück. [Learn more on the official project page](https://www.hs-osnabrueck.de/texas/teilprojekte/flexcellence/).

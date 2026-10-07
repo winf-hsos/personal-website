@@ -14,60 +14,18 @@
     "text": "The table below lists my current courses at Osnabrück University of Applied Sciences.\n\n\n\nCourse\nLevel\nSemester\n\n\n\n\nDigitization and Programming\nBachelor\n1\n\n\nProblem Solving with Artificial Intelligence\nBachelor\n2\n\n\nDigital Lab\nBachelor\n4/5\n\n\nApplications of Artificial Intelligence\nMaster\n1\n\n\nBig Data Analytics\nMaster\n2\n\n\n\nFurthermore, I offer the following courses in co-supervision with two colleagues:\n\n\n\nCourse\nLevel\nSemester\n\n\n\n\nTools for Market and Social Research\nBachelor\n2\n\n\nPractice for Market and Social Research\nBachelor\n3\n\n\nProject Market and Social Research\nBachelor\n4\n\n\nEmpirical Work\nMaster\n2"
   },
   {
+    "objectID": "teaching.html#course-websites",
+    "href": "teaching.html#course-websites",
+    "title": "Teaching",
+    "section": "Course Websites",
+    "text": "Course Websites\nTwo of my courses have their own websites with all the material in one place, from the slides to the experiments and practice questions:\n\nLiFi Project for Digitization and Programming, in which first-semester students build a device that sends files with light and learn along the way how computers represent, store, transfer and process information.\nArtificial Intelligence for Problem Solving with Artificial Intelligence and Applications of Artificial Intelligence, which explains how an AI agent works, from the language model inside it down to the idea of learning from data, with an experiment in every session."
+  },
+  {
     "objectID": "teaching.html#books",
     "href": "teaching.html#books",
     "title": "Teaching",
     "section": "Books",
-    "text": "Books\nI published the following books as accompaniment to my courses. They are available for free online:\n\nHands-On Computer Science\nHands-On Exploratory Data Analysis\nHands-On Problem Solving with Artificial Intelligence"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Prof. Dr. Nicolas Meseth",
-    "section": "",
-    "text": "Thanks for visiting my academic website. I am a professor at the University of Applied Sciences Osnabrück. I hope you find the information you are looking for. If not, please feel free to contact me."
-  },
-  {
-    "objectID": "index.html#what-im-up-to",
-    "href": "index.html#what-im-up-to",
-    "title": "Prof. Dr. Nicolas Meseth",
-    "section": "What I’m up to",
-    "text": "What I’m up to\nI was recently interviewed in “Ask your Prof!” format. Click on the image to view it on Instagram."
-  },
-  {
-    "objectID": "index.html#latest-project-flex3",
-    "href": "index.html#latest-project-flex3",
-    "title": "Prof. Dr. Nicolas Meseth",
-    "section": "Latest Project: FLEX3",
-    "text": "Latest Project: FLEX3\nI am curious about how AI can help make teaching more accessible and inclusive. In October 2026, I started exploring this topic in the project FLEX3, funded by the Flexcellence program of the University of Applied Sciences Osnabrück. Learn more on the official project page.\nOne goal of this project is to create different AI-dubbed versions of the same lecture recording. The two videos below show an example from a Science Slam I held in 2025. The version on the left is the original German version, while the version on the right is an English dub created with ElevenLabs.io. The videos are available on YouTube.\n\n\nGerman version (original)\n\n\n\nEnglish version"
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "since 2016 — Professor of Information Systems, Osnabrück University of Applied Sciences\nArtificial intelligence and its applications in the food industry, big data analytics, software prototyping\n2012–2016 — Manager, Deloitte, Düsseldorf\n2009–2012 — Principal Business Intelligence Consultant, SDX AG, Frankfurt Rhine-Main\nBI architectures and solutions, requirements engineering, testing, release and support, consulting\n2006–2009 — Research Assistant, Osnabrück University\nDoctoral research, research projects, teaching"
-  },
-  {
-    "objectID": "cv.html#professional-experience",
-    "href": "cv.html#professional-experience",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "since 2016 — Professor of Information Systems, Osnabrück University of Applied Sciences\nArtificial intelligence and its applications in the food industry, big data analytics, software prototyping\n2012–2016 — Manager, Deloitte, Düsseldorf\n2009–2012 — Principal Business Intelligence Consultant, SDX AG, Frankfurt Rhine-Main\nBI architectures and solutions, requirements engineering, testing, release and support, consulting\n2006–2009 — Research Assistant, Osnabrück University\nDoctoral research, research projects, teaching"
-  },
-  {
-    "objectID": "cv.html#education",
-    "href": "cv.html#education",
-    "title": "Curriculum Vitae",
-    "section": "Education",
-    "text": "Education\n\n2011 — Dr. rer. pol., Osnabrück University\n2003 — Information Systems, University of South Florida\n2001–2006 — M.Sc. in Information Systems, Osnabrück University"
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "The first post is coming soon.\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Books\nI published the following books as accompaniment to my courses. They are available for free online:\n\nHands-On Computer Science\nHands-On Exploratory Data Analysis"
   },
   {
     "objectID": "drafts/ki-im-supermarkt/index.html",
@@ -96,6 +54,62 @@
     "title": "When AI Pushes the Shopping Cart",
     "section": "What comes next?",
     "text": "What comes next?\nThis summer we are launching a larger field study in which we will test the system in a real retail environment over several weeks. Insights will feed directly into the ongoing development of the assistant.\nFor more on the project, visit the InVerBio project page."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "The first post is coming soon.\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "since 2016 — Professor of Information Systems, Osnabrück University of Applied Sciences\nArtificial intelligence and its applications in the food industry, big data analytics, software prototyping\n2012–2016 — Manager, Deloitte, Düsseldorf\n2009–2012 — Principal Business Intelligence Consultant, SDX AG, Frankfurt Rhine-Main\nBI architectures and solutions, requirements engineering, testing, release and support, consulting\n2006–2009 — Research Assistant, Osnabrück University\nDoctoral research, research projects, teaching"
+  },
+  {
+    "objectID": "cv.html#professional-experience",
+    "href": "cv.html#professional-experience",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "since 2016 — Professor of Information Systems, Osnabrück University of Applied Sciences\nArtificial intelligence and its applications in the food industry, big data analytics, software prototyping\n2012–2016 — Manager, Deloitte, Düsseldorf\n2009–2012 — Principal Business Intelligence Consultant, SDX AG, Frankfurt Rhine-Main\nBI architectures and solutions, requirements engineering, testing, release and support, consulting\n2006–2009 — Research Assistant, Osnabrück University\nDoctoral research, research projects, teaching"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\n\n2011 — Dr. rer. pol., Osnabrück University\n2003 — Information Systems, University of South Florida\n2001–2006 — M.Sc. in Information Systems, Osnabrück University"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Prof. Dr. Nicolas Meseth",
+    "section": "",
+    "text": "Thanks for visiting my academic website. I am a professor at the University of Applied Sciences Osnabrück. I hope you find the information you are looking for. If not, please feel free to contact me."
+  },
+  {
+    "objectID": "index.html#what-im-up-to",
+    "href": "index.html#what-im-up-to",
+    "title": "Prof. Dr. Nicolas Meseth",
+    "section": "What I’m up to",
+    "text": "What I’m up to\nI was recently interviewed in “Ask your Prof!” format. Click on the image to view it on Instagram."
+  },
+  {
+    "objectID": "index.html#a-teaser-for-the-lifi-project",
+    "href": "index.html#a-teaser-for-the-lifi-project",
+    "title": "Prof. Dr. Nicolas Meseth",
+    "section": "A Teaser for the LiFi Project",
+    "text": "A Teaser for the LiFi Project\nIn our first-semester module Digitization and Programming, students build a small device that sends a file from one laptop to another with nothing but light. This short teaser introduces the project, and it is my first attempt at a video that is entirely computer-animated: Claude Opus 5.5 wrote the code that draws every frame, while the voice, the music and the parrot artwork were generated with other AI tools.\n\n\n  \n\n\nEverything about the project is on the course website."
+  },
+  {
+    "objectID": "index.html#latest-project-flex3",
+    "href": "index.html#latest-project-flex3",
+    "title": "Prof. Dr. Nicolas Meseth",
+    "section": "Latest Project: FLEX3",
+    "text": "Latest Project: FLEX3\nI am curious about how AI can help make teaching more accessible and inclusive. In October 2026, I started exploring this topic in the project FLEX3, funded by the Flexcellence program of the University of Applied Sciences Osnabrück. Learn more on the official project page.\nOne goal of this project is to create different AI-dubbed versions of the same lecture recording. The two videos below show an example from a Science Slam I held in 2025. The version on the left is the original German version, while the version on the right is an English dub created with ElevenLabs.io. The videos are available on YouTube.\n\n\nGerman version (original)\n\n\n\nEnglish version"
   },
   {
     "objectID": "research.html",
