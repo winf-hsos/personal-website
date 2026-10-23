@@ -5,7 +5,7 @@ resources:
   - media/lifi-teaser-poster.jpg
 about:
   template: jolla
-  image: images/nicolas_meseth.webp
+  image: images/nicolas_meseth_linkedin.jpg
   links:
     - icon: envelope
       text: E-Mail
