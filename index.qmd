@@ -57,6 +57,12 @@ Everything about the project is on the [course website](https://docs.lifi-projec
 
 I am curious about how AI can help make teaching more accessible and inclusive. In October 2026, I started exploring this topic in the project **FLEX^3^**, funded by the Flexcellence program of the University of Applied Sciences Osnabrück. [Learn more on the official project page](https://www.hs-osnabrueck.de/texas/teilprojekte/flexcellence/).
 
+The project video introduces the idea in about seven minutes. It is in German with subtitles, and its opening also plays in English, Arabic and Ukrainian, dubbed with AI in my own voice.
+
+{{< video https://www.youtube.com/watch?v=GZrt6sXkD9w >}}
+
+*AI in the video: dubbing of the opening and the voice of the animation with ElevenLabs, background image and music AI-generated.*
+
 One goal of this project is to create different AI-dubbed versions of the same lecture recording. The two videos below show an example from a Science Slam I held in 2025. The version on the left is the original German version, while the version on the right is an English dub created with [ElevenLabs.io](http://elevenlabs.io/). The videos are available on YouTube.
 
 ::: {.grid}
