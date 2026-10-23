@@ -1,14 +1,12 @@
 project:
   type: website
   render:
-    # Alles ausser den internen Statusdateien je Beitrag. Die .gitignore
-    # allein genuegt dafuer nicht: sie haelt STATUS.md aus dem Quell-Repo,
-    # aber "quarto publish" schiebt _site/ -- und dorthin rendert Quarto
-    # jede .md im Projekt, ob getrackt oder nicht. Ohne diese Zeile wuerde
-    # aus jeder STATUS.md eine oeffentliche Seite mit Reichweitenzahlen.
+    # Nur die .qmd-Seiten. "quarto publish" schiebt _site/, und dorthin
+    # rendert Quarto sonst jede .md im Projekt mit, ob getrackt oder nicht --
+    # etwa images/LIESMICH.md oder eine interne STATUS.md. Der Blog ist am
+    # 2026-10-23 entfallen (Nicolas schreibt kuenftig auf Substack); seine
+    # Ordner drafts/ und posts/ gibt es nicht mehr.
     - "*.qmd"
-    - "drafts/**/*.qmd"
-    - "posts/**/*.qmd"
   resources:
     # Ohne diese beiden Zeilen verliert jeder Build die Domain
     # (CNAME) und laesst GitHub die Seite durch Jekyll schicken.
@@ -32,8 +30,8 @@ website:
   # Beitraege mit "draft: true" gar nicht erst bauen. Quarto laesst sie sonst
   # nur aus Liste, Sitemap und Suche heraus, legt die Seite aber trotzdem in
   # _site/ -- und "quarto publish" stellt sie dann unverlinkt online, egal
-  # wofuer veroeffentlicht wird. drafts/ki-im-supermarkt traegt bewusst kein
-  # "draft: true" und bleibt davon unberuehrt.
+  # wofuer veroeffentlicht wird. Seit dem Wegfall des Blogs nur noch
+  # Absicherung, falls je wieder eine Seite als Entwurf entsteht.
   draft-mode: gone
   navbar:
     title: false
@@ -48,8 +46,8 @@ website:
       - href: research.qmd
         text: Research
 
-      - href: blog.qmd
-        text: Blog
+      - href: software.qmd
+        text: Software
 
       - href: cv.qmd
         text: CV
