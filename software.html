@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="description" content="Code projects from my teaching and research.">
 
-<title>Blog – Prof.&nbsp;Dr.&nbsp;Nicolas Meseth</title>
+<title>Software – Prof.&nbsp;Dr.&nbsp;Nicolas Meseth</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -34,8 +35,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./images/favicon.svg" rel="icon" type="image/svg+xml">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -73,68 +72,10 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: [],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <script data-goatcounter="https://nmeseth.goatcounter.com/count" async="" src="//gc.zgo.at/count.js"></script>
 <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32.png">
 <link rel="apple-touch-icon" sizes="180x180" href="./images/apple-touch-icon.png">
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -164,8 +105,8 @@ window.Quarto = {
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./blog.html" aria-current="page"> 
-<span class="menu-text">Blog</span></a>
+    <a class="nav-link active" href="./software.html" aria-current="page"> 
+<span class="menu-text">Software</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./cv.html"> 
@@ -179,23 +120,37 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#stagekit" id="toc-stagekit" class="nav-link active" data-scroll-target="#stagekit">stagekit</a></li>
+  <li><a href="#labelbench" id="toc-labelbench" class="nav-link" data-scroll-target="#labelbench">LabelBench</a></li>
+  <li><a href="#lecture-recorder" id="toc-lecture-recorder" class="nav-link" data-scroll-target="#lecture-recorder">Lecture Recorder</a></li>
+  <li><a href="#markwise" id="toc-markwise" class="nav-link" data-scroll-target="#markwise">Markwise</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Blog</h1>
+<h1 class="title">Software</h1>
+</div>
+
+<div>
+  <div class="description">
+    Code projects from my teaching and research.
+  </div>
 </div>
 
 
-
-<div class="quarto-title-meta column-page">
+<div class="quarto-title-meta">
 
     
   
@@ -207,26 +162,58 @@ window.Quarto = {
 </header>
 
 
+<p>These are tools I built because I needed them in my own teaching and research. All of them are public on GitHub, and most are released under the MIT licence, so you are welcome to use and adapt them.</p>
+<section id="stagekit" class="level2">
+<h2 class="anchored" data-anchor-id="stagekit">stagekit</h2>
+<p>Slide decks as HTML: one file per deck, drawings as SVG, live demonstrators embedded right on the slide, and the whole design taken from a single theme file. Decks build up step by step instead of animating, open speaker notes in a second window, offer a laser pointer, and export to PDF.</p>
+<p>stagekit started in the LiFi Project and now carries my lectures and talks. It comes with a skill that lets an AI agent build new decks following its rules, so the design stays consistent from one deck to the next. You can see it at work on the course websites of the <a href="https://docs.lifi-project.de/">LiFi Project</a> and <a href="https://ai.hands-on-computer-science.de/">Artificial Intelligence</a>.</p>
+<p><a href="https://github.com/winf-hsos/stagekit">stagekit on GitHub</a> · MIT licence</p>
+</section>
+<section id="labelbench" class="level2">
+<h2 class="anchored" data-anchor-id="labelbench">LabelBench</h2>
+<p>LabelBench evaluates classifiers against a gold standard and shows every result in a self-contained HTML report that domain experts can browse row by row. Because the classifier is interchangeable, a hand-written rule set and a large language model are run, evaluated and compared in exactly the same way, which shows within minutes whether a change helped and on which items it did not.</p>
+<p><a href="https://github.com/winf-hsos/labelbench">LabelBench on GitHub</a> · MIT licence · version 0.3</p>
+</section>
+<section id="lecture-recorder" class="level2">
+<h2 class="anchored" data-anchor-id="lecture-recorder">Lecture Recorder</h2>
+<p>A small Windows app that records lectures locally with OBS Studio, built as a replacement for recording through Microsoft Teams. It captures screen, webcam and microphone in one go and afterwards files two synchronized videos, screen and camera, into a folder per term and module.</p>
+<div class="quarto-layout-panel" data-layout="[[60,40]]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/software/lecture-recorder-setup.png" class="img-fluid figure-img" alt="Setup window of the Lecture Recorder with fields for module, screen, camera and microphone"></p>
+<figcaption>The setup window: module, screen, camera and microphone with a live level meter</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
+<p>While recording, the window shrinks to a slim bar and is never captured itself. The taskbar stays out of the picture, a hotkey pauses and resumes, and stopping first asks whether to keep the recording, so an accidental click costs nothing.</p>
+<p><img src="images/software/lecture-recorder-recording.png" class="img-fluid" alt="The slim recording bar of the Lecture Recorder"></p>
+</div>
+</div>
+</div>
+<p><a href="https://github.com/winf-hsos/lecture-recorder">Lecture Recorder on GitHub</a> · MIT licence</p>
+</section>
+<section id="markwise" class="level2">
+<h2 class="anchored" data-anchor-id="markwise">Markwise</h2>
 <div class="callout callout-style-simple callout-note no-icon">
 <div class="callout-body d-flex">
 <div class="callout-icon-container">
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-body-container">
-<p>The first post is coming soon.</p>
+<p>In development.</p>
 </div>
 </div>
 </div>
+<p>A desktop app for paper exams: it keeps a bank of multiple-choice and free-text questions, builds exams from it, reads the scanned answer sheets and turns them into grades. Free-text answers are marked by hand on paper, with the points ticked in a box strip that the scan reads as well. Markwise runs natively on Windows, needs neither Linux nor LaTeX, and is meant for examiners without any technical background.</p>
+<p><a href="https://github.com/winf-hsos/markwise">Markwise on GitHub</a></p>
 
 
+</section>
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

@@ -2,15 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://nicolasmeseth.de/teaching.html</loc>
-    <lastmod>2026-10-07T12:08:54.856Z</lastmod>
+    <lastmod>2026-10-13T10:00:57.330Z</lastmod>
   </url>
   <url>
-    <loc>https://nicolasmeseth.de/drafts/ki-im-supermarkt/index.html</loc>
-    <lastmod>2026-05-29T07:11:54.498Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nicolasmeseth.de/blog.html</loc>
-    <lastmod>2026-06-01T10:37:53.252Z</lastmod>
+    <loc>https://nicolasmeseth.de/research.html</loc>
+    <lastmod>2026-10-01T08:01:56.150Z</lastmod>
   </url>
   <url>
     <loc>https://nicolasmeseth.de/cv.html</loc>
@@ -21,7 +17,7 @@
     <lastmod>2026-10-07T12:08:54.855Z</lastmod>
   </url>
   <url>
-    <loc>https://nicolasmeseth.de/research.html</loc>
-    <lastmod>2026-10-01T08:01:56.150Z</lastmod>
+    <loc>https://nicolasmeseth.de/software.html</loc>
+    <lastmod>2026-10-23T23:32:31.585Z</lastmod>
   </url>
 </urlset>

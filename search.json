@@ -28,39 +28,39 @@
     "text": "Books\nI published the following books as accompaniment to my courses. They are available for free online:\n\nHands-On Computer Science\nHands-On Exploratory Data Analysis"
   },
   {
-    "objectID": "drafts/ki-im-supermarkt/index.html",
-    "href": "drafts/ki-im-supermarkt/index.html",
-    "title": "When AI Pushes the Shopping Cart",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "Last week I stood in an Osnabrück grocery store, tablet in hand, discussing with an AI whether I should buy Gouda or Emmental. What sounds like a scene from a science fiction film is already reality — and exactly the scenario we have been researching for over a year in our InVerBio project."
+    "text": "Started in October 2026. FLEX3 develops a mobile, easy-to-use solution to stream lectures live, translate them into other languages with AI, and record them automatically. The transcripts then serve to generate summaries – including in plain language –, quizzes, and task lists. FLEX3 is one of three pilot projects selected from 17 proposals in the university’s Flexcellence program; I am its spokesperson.\n\nProject Website\n\n\n\n\nWithin this project, my team and I explore how an AI-based virtual shopping assistant can help in the context of contactless smart stores.\n\nProject Website"
   },
   {
-    "objectID": "drafts/ki-im-supermarkt/index.html#what-is-inverbio",
-    "href": "drafts/ki-im-supermarkt/index.html#what-is-inverbio",
-    "title": "When AI Pushes the Shopping Cart",
-    "section": "What is InVerBio?",
-    "text": "What is InVerBio?\nInVerBio stands for Intelligent Virtual Advisory Assistant in Organic Food Retail. The goal of the project is to understand how an AI-powered assistant can help people while shopping — not by simply displaying product information, but through genuine, context-aware conversation."
-  },
-  {
-    "objectID": "drafts/ki-im-supermarkt/index.html#what-have-we-learned-so-far",
-    "href": "drafts/ki-im-supermarkt/index.html#what-have-we-learned-so-far",
-    "title": "When AI Pushes the Shopping Cart",
-    "section": "What have we learned so far?",
-    "text": "What have we learned so far?\nThree things stand out in particular:\n1. Trust requires transparency. Users accept AI recommendations far more readily when they can understand why a recommendation is being made. “This product has less packaging” is more persuasive than “I recommend this.”\n2. Tone matters enormously. An overly formal assistant feels cold; an overly casual one feels untrustworthy. Finding the right balance is harder than expected.\n3. People share more than asked. Many users voluntarily disclose personal context — allergies, preferences, household size — without being prompted to do so."
-  },
-  {
-    "objectID": "drafts/ki-im-supermarkt/index.html#what-comes-next",
-    "href": "drafts/ki-im-supermarkt/index.html#what-comes-next",
-    "title": "When AI Pushes the Shopping Cart",
-    "section": "What comes next?",
-    "text": "What comes next?\nThis summer we are launching a larger field study in which we will test the system in a real retail environment over several weeks. Insights will feed directly into the ongoing development of the assistant.\nFor more on the project, visit the InVerBio project page."
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
+    "objectID": "research.html#projects",
+    "href": "research.html#projects",
+    "title": "Research",
     "section": "",
-    "text": "The first post is coming soon.\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Started in October 2026. FLEX3 develops a mobile, easy-to-use solution to stream lectures live, translate them into other languages with AI, and record them automatically. The transcripts then serve to generate summaries – including in plain language –, quizzes, and task lists. FLEX3 is one of three pilot projects selected from 17 proposals in the university’s Flexcellence program; I am its spokesperson.\n\nProject Website\n\n\n\n\nWithin this project, my team and I explore how an AI-based virtual shopping assistant can help in the context of contactless smart stores.\n\nProject Website"
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\n\nMeseth, N., & Zmijewski, P. “KI-Assistenten – die Zukunft des smarten Einkaufs?” Wissen Hoch N (2025). doi:10.60479/T9KE-KJ76\nHömmen, E., Meseth, N., & Zmijewski, P. “Ein Framework für den Einsatz generativer KI-Modelle zur Erzeugung von Lebensmittelverpackungsdesigns” (2024). doi:10.48769/OPUS-6762\nZmijewski, P., & Meseth, N. “Optimierung einer stochastischen MRP-Simulation unter Anwendung der Bayes’schen Optimierung.” 20. ASIM Fachtagung Simulation in Produktion und Logistik (2023), p. 373. doi:10.22032/DBT.57779\nZmijewski, P., & Meseth, N. “SimBO – a Framework for Simulation-Based Optimization Using Bayesian Optimization.” Communications of the ECMS, 37 (2023), p. 7. Link\nZmijewski, P., & Meseth, N. “Evaluation of Bayesian Optimization Applied to Discrete-Event Simulation” (2020).\nKirchhof, P., & Meseth, N. “A Survey on the Use of Simulation in German Healthcare.” Proceedings of the 2012 Winter Simulation Conference (WSC) (2012), pp. 1–10. doi:10.1109/WSC.2012.6465026\nMeseth, N., Kirchhof, P., & Witte, T. “XML-Based DEVS Modeling and Interpretation.” Proceedings of the 2009 Spring Simulation Multiconference (SpringSim ‘09) (2009).\nKirchhof, P., Meseth, N., & Witte, T. “Simulation Based Evaluation of the Workload Control Concept for a Company of the Automobile Industry.” 2008 Winter Simulation Conference (WSC) (2008), pp. 1856–1862. doi:10.1109/WSC.2008.4736275\nMeseth, N., Kirchhof, P., & Witte, T. “An XML-Based Language for DEVS Components.” 2008 Winter Simulation Conference (WSC) (2008), p. 2948. doi:10.1109/WSC.2008.4736438"
+  },
+  {
+    "objectID": "research.html#news-media",
+    "href": "research.html#news-media",
+    "title": "Research",
+    "section": "News & Media",
+    "text": "News & Media\n\nSieht so die Zukunft aus? Einkaufen mit KI im Selbsttest im Farmely-Shop in Osnabrück"
+  },
+  {
+    "objectID": "research.html#thesis-supervision",
+    "href": "research.html#thesis-supervision",
+    "title": "Research",
+    "section": "Thesis Supervision",
+    "text": "Thesis Supervision\nThe table lists the theses I supervised as first examiner, most recent first. Where a thesis was written in cooperation with a company, the company’s name is omitted from the title.\n\n\n\n\n\n\n\n\n\nYear\nTitle\nLevel\nLinks\n\n\n\n\n2026\nEntwicklung und Evaluierung von Vorhersagemodellen für die Performance von Social-Media-Beiträgen mittels AutoML [..]\nMaster\n\n\n\n2026\nEntwicklung einer LLM-basierten Natural Language Processing-Pipeline zur strukturierten Analyse von Chats mit einem virtuellen Einkaufsassistenten\nBachelor\n\n\n\n2026\nKonzeption und prototypische Implementierung einer LLM-Schnittstelle für den Zugriff auf SAP-Produktdaten\nBachelor\n\n\n\n2026\nLLM-Based AI Assistance Systems for Business Processes in Wholesale Plant Distribution [..]\nBachelor\n\n\n\n2026\nPotenzialanalyse von Demand Sensing in der taktischen Bedarfsplanung eines Molkereiunternehmens\nBachelor\n\n\n\n2026\nPrototypische Implementierung und Evaluation eines Recommender-Systems [..]\nBachelor\n\n\n\n2025\nDer Einsatz von ChatGPT für die Suchmaschinenoptimierung (SEO) in Gartenbaubetrieben\nBachelor\n\n\n\n2025\nEntwicklung und Evaluierung eines KI-basierten Bildklassifizierungssystems für die Fleischindustrie\nBachelor\n\n\n\n2025\nGrid-Based Polycultural Simulation\nBachelor\n\n\n\n2025\nKonzeption einer ESG-App als Software-as-a-Service unter Verwendung von SAP UI5 und CSRD-Vorgaben\nBachelor\n\n\n\n2025\nZugriff auf relationale Produktdatenbanken durch KI-basierte Einkaufsassistenten mithilfe von Retrieval Augmented Generation\nBachelor\n\n\n\n2024\nEinsatz generativer KI-Modelle für die Erstellung von Lebensmittelverpackungsdesigns\nMaster\n\n\n\n2024\nConception of an assistance system for the evaluation of straw quality\nBachelor\n\n\n\n2023\nEinführung und Evaluation des Performance Marketing [..]\nBachelor\n\n\n\n2023\nOptimierung der Material- und Kapazitätsbedarfsplanung durch die Integration der Produktionsprogrammplanung in einem multinationalen Unternehmen\nBachelor\n\n\n\n2022\nBewertung von Chatbot-Softwarelösungen und prototypische Umsetzung in ausgewählten Anwendungsfällen des Food Future Labs\nMaster\n\n\n\n2022\nChatbots für die Verringerung von Lebensmittelverschwendung: Konzeption und Umsetzung eines funktionalen Prototyps\nMaster\n\n\n\n2022\nDie Integration KI-gestützter Bilderkennung für die Ersatzteilidentifikation [..]\nMaster\n\n\n\n2022\nEntwicklung und Vergleich von verschiedenen Methoden zur Kalibrierung eines Systems zur Lokalisierung von Milchkühen im Stall\nMaster\n\n\n\n2022\nKonzeptionsentwicklung zur nachhaltigen Optimierung der Artikeletikettierung für Industriekunden unter Berücksichtigung informations- und produktionstechnischer Faktoren [..]\nMaster\n\n\n\n2022\nEin kennzahlenorientiertes Konzept zur Steigerung der Markenbekanntheit [..] auf Instagram\nBachelor\n\n\n\n2022\nEinsatz generativer KI-Modelle für die Erzeugung von Lebensmittelverpackungsdesigns\nBachelor\n\n\n\n2021\nAnforderungsanalyse und Umsetzungskonzept mit Scrum für das Campusfoods-Portal\nBachelor\n\n\n\n2021\nAnwendung von Transfer Learning mithilfe von Azure Custom Vision und Entwicklung eines web-basierten Prototyps zur Gesamtkeimzahlbestimmung in Sauerteigproben\nBachelor\n\n\n\n2021\nAnwendungsmöglichkeiten für die Analyse tagesaktueller Daten in der Landwirtschaft am Beispiel der Hähnchenmast\nBachelor\n\n\n\n2021\nKonzeptionierung und Implementierung eines App-Backends zur kontaktlosen Entnahme von Produkten aus Abholstationen in Verbindung mit Shopify\nBachelor\n\n\n\n2020\nVerbesserung der Absatzprognosen für Lebensmittel durch Algorithmen maschinellen Lernens [..]\nMaster\n\n\n\n2020\nOnline-Verkauf von Lebensmitteln: Anforderungsanalyse und Anbieterauswahl für Click & Collect und lokale Auslieferung\nBachelor\n\n\n\n2019\nDatenanalyse des Social Media Marketing einer Lebensmittelmarke im deutschen Einzelhandel\nBachelor\n\n\n\n2019\nMaßnahmengestützte Optimierung der Nutzungsintensität von Software-as-a-Service-Lösungen [..]\nBachelor\n\n\n\n2018\nAnforderungs- und Marktanalyse zur Findung einer Standardsoftware für die kurzfristige Absatzprognose im Frischlebensmittelsektor [..]\nBachelor\n\n\n\n2018\nKonzeption und prototypische Umsetzung einer Reportinganwendung für einen Lieferdienst von Bioprodukten\nBachelor\n\n\n\n2018\nNeue Wege im Vertrieb von Landmaschinen – Potenzial von Digitalisierung und E-Commerce im Agrartechnikhandel\nBachelor"
   },
   {
     "objectID": "cv.html",
@@ -112,38 +112,38 @@
     "text": "Latest Project: FLEX3\nI am curious about how AI can help make teaching more accessible and inclusive. In October 2026, I started exploring this topic in the project FLEX3, funded by the Flexcellence program of the University of Applied Sciences Osnabrück. Learn more on the official project page.\nOne goal of this project is to create different AI-dubbed versions of the same lecture recording. The two videos below show an example from a Science Slam I held in 2025. The version on the left is the original German version, while the version on the right is an English dub created with ElevenLabs.io. The videos are available on YouTube.\n\n\nGerman version (original)\n\n\n\nEnglish version"
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
     "section": "",
-    "text": "Started in October 2026. FLEX3 develops a mobile, easy-to-use solution to stream lectures live, translate them into other languages with AI, and record them automatically. The transcripts then serve to generate summaries – including in plain language –, quizzes, and task lists. FLEX3 is one of three pilot projects selected from 17 proposals in the university’s Flexcellence program; I am its spokesperson.\n\nProject Website\n\n\n\n\nWithin this project, my team and I explore how an AI-based virtual shopping assistant can help in the context of contactless smart stores.\n\nProject Website"
+    "text": "These are tools I built because I needed them in my own teaching and research. All of them are public on GitHub, and most are released under the MIT licence, so you are welcome to use and adapt them."
   },
   {
-    "objectID": "research.html#projects",
-    "href": "research.html#projects",
-    "title": "Research",
-    "section": "",
-    "text": "Started in October 2026. FLEX3 develops a mobile, easy-to-use solution to stream lectures live, translate them into other languages with AI, and record them automatically. The transcripts then serve to generate summaries – including in plain language –, quizzes, and task lists. FLEX3 is one of three pilot projects selected from 17 proposals in the university’s Flexcellence program; I am its spokesperson.\n\nProject Website\n\n\n\n\nWithin this project, my team and I explore how an AI-based virtual shopping assistant can help in the context of contactless smart stores.\n\nProject Website"
+    "objectID": "software.html#stagekit",
+    "href": "software.html#stagekit",
+    "title": "Software",
+    "section": "stagekit",
+    "text": "stagekit\nSlide decks as HTML: one file per deck, drawings as SVG, live demonstrators embedded right on the slide, and the whole design taken from a single theme file. Decks build up step by step instead of animating, open speaker notes in a second window, offer a laser pointer, and export to PDF.\nstagekit started in the LiFi Project and now carries my lectures and talks. It comes with a skill that lets an AI agent build new decks following its rules, so the design stays consistent from one deck to the next. You can see it at work on the course websites of the LiFi Project and Artificial Intelligence.\nstagekit on GitHub · MIT licence"
   },
   {
-    "objectID": "research.html#publications",
-    "href": "research.html#publications",
-    "title": "Research",
-    "section": "Publications",
-    "text": "Publications\n\nMeseth, N., & Zmijewski, P. “KI-Assistenten – die Zukunft des smarten Einkaufs?” Wissen Hoch N (2025). doi:10.60479/T9KE-KJ76\nHömmen, E., Meseth, N., & Zmijewski, P. “Ein Framework für den Einsatz generativer KI-Modelle zur Erzeugung von Lebensmittelverpackungsdesigns” (2024). doi:10.48769/OPUS-6762\nZmijewski, P., & Meseth, N. “Optimierung einer stochastischen MRP-Simulation unter Anwendung der Bayes’schen Optimierung.” 20. ASIM Fachtagung Simulation in Produktion und Logistik (2023), p. 373. doi:10.22032/DBT.57779\nZmijewski, P., & Meseth, N. “SimBO – a Framework for Simulation-Based Optimization Using Bayesian Optimization.” Communications of the ECMS, 37 (2023), p. 7. Link\nZmijewski, P., & Meseth, N. “Evaluation of Bayesian Optimization Applied to Discrete-Event Simulation” (2020).\nKirchhof, P., & Meseth, N. “A Survey on the Use of Simulation in German Healthcare.” Proceedings of the 2012 Winter Simulation Conference (WSC) (2012), pp. 1–10. doi:10.1109/WSC.2012.6465026\nMeseth, N., Kirchhof, P., & Witte, T. “XML-Based DEVS Modeling and Interpretation.” Proceedings of the 2009 Spring Simulation Multiconference (SpringSim ‘09) (2009).\nKirchhof, P., Meseth, N., & Witte, T. “Simulation Based Evaluation of the Workload Control Concept for a Company of the Automobile Industry.” 2008 Winter Simulation Conference (WSC) (2008), pp. 1856–1862. doi:10.1109/WSC.2008.4736275\nMeseth, N., Kirchhof, P., & Witte, T. “An XML-Based Language for DEVS Components.” 2008 Winter Simulation Conference (WSC) (2008), p. 2948. doi:10.1109/WSC.2008.4736438"
+    "objectID": "software.html#labelbench",
+    "href": "software.html#labelbench",
+    "title": "Software",
+    "section": "LabelBench",
+    "text": "LabelBench\nLabelBench evaluates classifiers against a gold standard and shows every result in a self-contained HTML report that domain experts can browse row by row. Because the classifier is interchangeable, a hand-written rule set and a large language model are run, evaluated and compared in exactly the same way, which shows within minutes whether a change helped and on which items it did not.\nLabelBench on GitHub · MIT licence · version 0.3"
   },
   {
-    "objectID": "research.html#news-media",
-    "href": "research.html#news-media",
-    "title": "Research",
-    "section": "News & Media",
-    "text": "News & Media\n\nSieht so die Zukunft aus? Einkaufen mit KI im Selbsttest im Farmely-Shop in Osnabrück"
+    "objectID": "software.html#lecture-recorder",
+    "href": "software.html#lecture-recorder",
+    "title": "Software",
+    "section": "Lecture Recorder",
+    "text": "Lecture Recorder\nA small Windows app that records lectures locally with OBS Studio, built as a replacement for recording through Microsoft Teams. It captures screen, webcam and microphone in one go and afterwards files two synchronized videos, screen and camera, into a folder per term and module.\n\n\n\n\n\n\nThe setup window: module, screen, camera and microphone with a live level meter\n\n\n\n\nWhile recording, the window shrinks to a slim bar and is never captured itself. The taskbar stays out of the picture, a hotkey pauses and resumes, and stopping first asks whether to keep the recording, so an accidental click costs nothing.\n\n\n\n\nLecture Recorder on GitHub · MIT licence"
   },
   {
-    "objectID": "research.html#thesis-supervision",
-    "href": "research.html#thesis-supervision",
-    "title": "Research",
-    "section": "Thesis Supervision",
-    "text": "Thesis Supervision\nThe table lists the theses I supervised as first examiner, most recent first. Where a thesis was written in cooperation with a company, the company’s name is omitted from the title.\n\n\n\n\n\n\n\n\n\nYear\nTitle\nLevel\nLinks\n\n\n\n\n2026\nEntwicklung und Evaluierung von Vorhersagemodellen für die Performance von Social-Media-Beiträgen mittels AutoML [..]\nMaster\n\n\n\n2026\nEntwicklung einer LLM-basierten Natural Language Processing-Pipeline zur strukturierten Analyse von Chats mit einem virtuellen Einkaufsassistenten\nBachelor\n\n\n\n2026\nKonzeption und prototypische Implementierung einer LLM-Schnittstelle für den Zugriff auf SAP-Produktdaten\nBachelor\n\n\n\n2026\nLLM-Based AI Assistance Systems for Business Processes in Wholesale Plant Distribution [..]\nBachelor\n\n\n\n2026\nPotenzialanalyse von Demand Sensing in der taktischen Bedarfsplanung eines Molkereiunternehmens\nBachelor\n\n\n\n2026\nPrototypische Implementierung und Evaluation eines Recommender-Systems [..]\nBachelor\n\n\n\n2025\nDer Einsatz von ChatGPT für die Suchmaschinenoptimierung (SEO) in Gartenbaubetrieben\nBachelor\n\n\n\n2025\nEntwicklung und Evaluierung eines KI-basierten Bildklassifizierungssystems für die Fleischindustrie\nBachelor\n\n\n\n2025\nGrid-Based Polycultural Simulation\nBachelor\n\n\n\n2025\nKonzeption einer ESG-App als Software-as-a-Service unter Verwendung von SAP UI5 und CSRD-Vorgaben\nBachelor\n\n\n\n2025\nZugriff auf relationale Produktdatenbanken durch KI-basierte Einkaufsassistenten mithilfe von Retrieval Augmented Generation\nBachelor\n\n\n\n2024\nEinsatz generativer KI-Modelle für die Erstellung von Lebensmittelverpackungsdesigns\nMaster\n\n\n\n2024\nConception of an assistance system for the evaluation of straw quality\nBachelor\n\n\n\n2023\nEinführung und Evaluation des Performance Marketing [..]\nBachelor\n\n\n\n2023\nOptimierung der Material- und Kapazitätsbedarfsplanung durch die Integration der Produktionsprogrammplanung in einem multinationalen Unternehmen\nBachelor\n\n\n\n2022\nBewertung von Chatbot-Softwarelösungen und prototypische Umsetzung in ausgewählten Anwendungsfällen des Food Future Labs\nMaster\n\n\n\n2022\nChatbots für die Verringerung von Lebensmittelverschwendung: Konzeption und Umsetzung eines funktionalen Prototyps\nMaster\n\n\n\n2022\nDie Integration KI-gestützter Bilderkennung für die Ersatzteilidentifikation [..]\nMaster\n\n\n\n2022\nEntwicklung und Vergleich von verschiedenen Methoden zur Kalibrierung eines Systems zur Lokalisierung von Milchkühen im Stall\nMaster\n\n\n\n2022\nKonzeptionsentwicklung zur nachhaltigen Optimierung der Artikeletikettierung für Industriekunden unter Berücksichtigung informations- und produktionstechnischer Faktoren [..]\nMaster\n\n\n\n2022\nEin kennzahlenorientiertes Konzept zur Steigerung der Markenbekanntheit [..] auf Instagram\nBachelor\n\n\n\n2022\nEinsatz generativer KI-Modelle für die Erzeugung von Lebensmittelverpackungsdesigns\nBachelor\n\n\n\n2021\nAnforderungsanalyse und Umsetzungskonzept mit Scrum für das Campusfoods-Portal\nBachelor\n\n\n\n2021\nAnwendung von Transfer Learning mithilfe von Azure Custom Vision und Entwicklung eines web-basierten Prototyps zur Gesamtkeimzahlbestimmung in Sauerteigproben\nBachelor\n\n\n\n2021\nAnwendungsmöglichkeiten für die Analyse tagesaktueller Daten in der Landwirtschaft am Beispiel der Hähnchenmast\nBachelor\n\n\n\n2021\nKonzeptionierung und Implementierung eines App-Backends zur kontaktlosen Entnahme von Produkten aus Abholstationen in Verbindung mit Shopify\nBachelor\n\n\n\n2020\nVerbesserung der Absatzprognosen für Lebensmittel durch Algorithmen maschinellen Lernens [..]\nMaster\n\n\n\n2020\nOnline-Verkauf von Lebensmitteln: Anforderungsanalyse und Anbieterauswahl für Click & Collect und lokale Auslieferung\nBachelor\n\n\n\n2019\nDatenanalyse des Social Media Marketing einer Lebensmittelmarke im deutschen Einzelhandel\nBachelor\n\n\n\n2019\nMaßnahmengestützte Optimierung der Nutzungsintensität von Software-as-a-Service-Lösungen [..]\nBachelor\n\n\n\n2018\nAnforderungs- und Marktanalyse zur Findung einer Standardsoftware für die kurzfristige Absatzprognose im Frischlebensmittelsektor [..]\nBachelor\n\n\n\n2018\nKonzeption und prototypische Umsetzung einer Reportinganwendung für einen Lieferdienst von Bioprodukten\nBachelor\n\n\n\n2018\nNeue Wege im Vertrieb von Landmaschinen – Potenzial von Digitalisierung und E-Commerce im Agrartechnikhandel\nBachelor"
+    "objectID": "software.html#markwise",
+    "href": "software.html#markwise",
+    "title": "Software",
+    "section": "Markwise",
+    "text": "Markwise\n\n\n\n\n\n\nIn development.\n\n\n\nA desktop app for paper exams: it keeps a bank of multiple-choice and free-text questions, builds exams from it, reads the scanned answer sheets and turns them into grades. Free-text answers are marked by hand on paper, with the points ticked in a box strip that the scan reads as well. Markwise runs natively on Windows, needs neither Linux nor LaTeX, and is meant for examiners without any technical background.\nMarkwise on GitHub"
   }
 ]
