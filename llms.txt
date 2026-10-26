@@ -5,5 +5,5 @@
 - [Teaching](https://nicolasmeseth.de/teaching.llms.md)
 - [Research](https://nicolasmeseth.de/research.llms.md)
 - [Curriculum Vitae](https://nicolasmeseth.de/cv.llms.md)
-- [Prof. Dr. Nicolas Meseth](https://nicolasmeseth.de/index.llms.md)
+- [index](https://nicolasmeseth.de/index.llms.md)
 - [Software](https://nicolasmeseth.de/software.llms.md)

@@ -1,4 +1,17 @@
-Thanks for visiting my academic website. I am a professor at the University of Applied Sciences Osnabrück. I hope you find the information you are looking for. If not, please feel free to contact me.
+Nicolas Meseth
+
+I explain how computers and AI work through experiments and projects that my students build themselves.
+
+Professor of Information Systems at Osnabrück University of Applied Sciences
+
+- [E-Mail](mailto:n.meseth@hs-osnabrueck.de)
+- [LinkedIn](https://www.linkedin.com/in/nicolasmeseth/)
+- [GitHub](https://github.com/winf-hsos)
+- [YouTube](https://www.youtube.com/@nicolasmeseth)
+- [Instagram](https://www.instagram.com/nmeseth/)
+- [Academic profile](https://www.hs-osnabrueck.de/prof-dr-nicolas-meseth/)
+
+![Portrait of Nicolas Meseth](images/nicolas_meseth_linkedin.jpg)
 
 ## What I’m up to
 
