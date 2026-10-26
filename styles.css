@@ -31,6 +31,13 @@
   --hs-blue: #009ee3;
 }
 
+/* Always reserve room for the scrollbar. Otherwise a page short enough to
+   need none (the CV) is wider than the others, and the whole layout jumps
+   sideways when switching to it. */
+html {
+  scrollbar-gutter: stable;
+}
+
 /* ---------- Type ---------- */
 
 h1, h2, h3, h4,
