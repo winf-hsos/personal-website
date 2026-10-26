@@ -17,7 +17,8 @@ Summary of the Curriculum Vitae of Prof. Dr. Nicolas Meseth
 
 ## Education
 
-- **2011** — Dr. rer. pol., Osnabrück University
+- **2011** — Dr. rer. pol., Osnabrück University, *summa cum laude*  
+  Dissertation: [XML-based DEVS Modeling and Interpretation](https://nbn-resolving.org/urn:nbn:de:gbv:700-201111288562)
 
 - **2003** — Information Systems, University of South Florida
 
