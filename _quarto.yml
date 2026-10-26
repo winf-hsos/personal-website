@@ -12,6 +12,8 @@ project:
     # (CNAME) und laesst GitHub die Seite durch Jekyll schicken.
     - CNAME
     - .nojekyll
+    # Selbst gehostete Schrift, referenziert aus styles.css.
+    - fonts/
 
 website:
   title: "Prof. Dr. Nicolas Meseth"
@@ -34,7 +36,7 @@ website:
   # Absicherung, falls je wieder eine Seite als Entwurf entsteht.
   draft-mode: gone
   navbar:
-    title: false
+    title: "Nicolas Meseth"
     #logo: images/hs-logo.png
     left:
       - href: index.qmd
@@ -54,7 +56,13 @@ website:
 
 format:
   html:
-    theme: cosmo
+    # Eigenes Theme seit 2026-10-26 statt cosmo (das ausserdem eine Schrift
+    # von Google Fonts nachlud). Hell und dunkel, mit Umschalter in der Leiste;
+    # ohne Wahl folgt die Seite der Einstellung des Systems.
+    theme:
+      light: [default, theme-light.scss]
+      dark: [default, theme-dark.scss]
+    respect-user-color-scheme: true
     css: styles.css
     toc: true
     page-layout: article

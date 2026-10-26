@@ -1,0 +1,31 @@
+/*-- scss:defaults --*/
+
+// Light theme. Brand colour is Hochschulblau #009ee3; on white it is too
+// light for text (contrast 2.9:1), so links use a darker shade of the same
+// blue and the pure colour is kept for lines and accents (see styles.css).
+
+$font-family-sans-serif: "Bricolage Grotesque", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+$font-size-root: 17px;
+$line-height-base: 1.6;
+$headings-font-weight: 750;
+
+$body-bg: #ffffff;
+$body-color: #1e252c;
+$text-muted: #5b6670;
+$border-color: #e2e6ea;
+
+$primary: #0071a6;
+$link-color: $primary;
+$link-decoration: none;
+$link-hover-decoration: underline;
+
+$navbar-bg: $body-bg;
+$navbar-fg: $body-color;
+$navbar-hl: $primary;
+$footer-bg: $body-bg;
+$footer-fg: $text-muted;
+
+$code-color: #0b5f8a;
+$code-bg: #eef4f8;
+
+$grid-body-width: 760px;

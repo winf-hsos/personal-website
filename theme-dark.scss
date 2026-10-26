@@ -1,0 +1,30 @@
+/*-- scss:defaults --*/
+
+// Dark theme. Same structure as theme-light.scss; on the dark background
+// Hochschulblau itself is readable, so links use a slightly lighter shade.
+
+$font-family-sans-serif: "Bricolage Grotesque", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+$font-size-root: 17px;
+$line-height-base: 1.6;
+$headings-font-weight: 750;
+
+$body-bg: #141a20;
+$body-color: #e4e9ed;
+$text-muted: #9aa6b1;
+$border-color: #2b343d;
+
+$primary: #3bb6ea;
+$link-color: $primary;
+$link-decoration: none;
+$link-hover-decoration: underline;
+
+$navbar-bg: $body-bg;
+$navbar-fg: $body-color;
+$navbar-hl: $primary;
+$footer-bg: $body-bg;
+$footer-fg: $text-muted;
+
+$code-color: #8fd3f2;
+$code-bg: #1c252e;
+
+$grid-body-width: 760px;

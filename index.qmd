@@ -1,33 +1,32 @@
 ---
-title: "Prof. Dr. Nicolas Meseth"
+pagetitle: "Prof. Dr. Nicolas Meseth"
+description: "Professor of Information Systems at Osnabrück University of Applied Sciences. Computer science and AI, explained through experiments and projects."
+toc: false
 resources:
   - media/lifi-teaser.mp4
   - media/lifi-teaser-poster.jpg
-about:
-  template: jolla
-  image: images/nicolas_meseth_linkedin.jpg
-  links:
-    - icon: envelope
-      text: E-Mail
-      href: mailto:n.meseth@hs-osnabrueck.de
-    - icon: bank
-      text: Academic Profile
-      href: https://www.hs-osnabrueck.de/prof-dr-nicolas-meseth/
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/nicolasmeseth/
-    - icon: github
-      text: GitHub
-      href: https://github.com/winf-hsos
-    - icon: youtube
-      text: YouTube
-      href: https://www.youtube.com/@nicolasmeseth
-    - icon: instagram
-      text: Instagram
-      href: https://www.instagram.com/nmeseth/
 ---
 
-Thanks for visiting my academic website. I am a professor at the University of Applied Sciences Osnabrück. I hope you find the information you are looking for. If not, please feel free to contact me.
+```{=html}
+<header class="hero">
+  <div>
+    <!-- No <h1> here: Quarto would move the first h1 into its title block. -->
+    <p class="hero-name" role="heading" aria-level="1">Nicolas Meseth</p>
+    <div class="hero-beam" aria-hidden="true"></div>
+    <p class="hero-lead">I explain how computers and AI work through experiments and projects that my students build themselves.</p>
+    <p class="hero-role">Professor of Information Systems at Osnabrück University of Applied Sciences</p>
+    <ul class="hero-links">
+      <li><a href="mailto:n.meseth@hs-osnabrueck.de"><i class="bi bi-envelope" aria-hidden="true"></i>E-Mail</a></li>
+      <li><a href="https://www.linkedin.com/in/nicolasmeseth/"><i class="bi bi-linkedin" aria-hidden="true"></i>LinkedIn</a></li>
+      <li><a href="https://github.com/winf-hsos"><i class="bi bi-github" aria-hidden="true"></i>GitHub</a></li>
+      <li><a href="https://www.youtube.com/@nicolasmeseth"><i class="bi bi-youtube" aria-hidden="true"></i>YouTube</a></li>
+      <li><a href="https://www.instagram.com/nmeseth/"><i class="bi bi-instagram" aria-hidden="true"></i>Instagram</a></li>
+      <li><a href="https://www.hs-osnabrueck.de/prof-dr-nicolas-meseth/"><i class="bi bi-bank" aria-hidden="true"></i>Academic profile</a></li>
+    </ul>
+  </div>
+  <img class="hero-photo" src="images/nicolas_meseth_linkedin.jpg" alt="Portrait of Nicolas Meseth">
+</header>
+```
 
 ## What I'm up to
 
