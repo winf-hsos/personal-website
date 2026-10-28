@@ -41,3 +41,15 @@ While recording, the window shrinks to a slim bar and is never captured itself. 
 A desktop app for paper exams: it keeps a bank of multiple-choice and free-text questions, builds exams from it, reads the scanned answer sheets and turns them into grades. Free-text answers are marked by hand on paper, with the points ticked in a box strip that the scan reads as well. Markwise runs natively on Windows, needs neither Linux nor LaTeX, and is meant for examiners without any technical background.
 
 [Markwise on GitHub](https://github.com/winf-hsos/markwise)
+
+## pH Sensor Box
+
+> **NOTE:**
+>
+> In development.
+
+An open-source device that measures pH in the lab, which I started in October 2026. It is designed as a small 3D-printed box with a pH electrode and a temperature probe that measures continuously and sends its readings over Wi-Fi to a central server, where they can be followed live in the browser and downloaded at any time. It is meant as an affordable alternative that labs can build themselves, since commercial pH meters usually release their data only through the manufacturer’s software or fixed export formats.
+
+The box is built from Tinkerforge modules around an ESP32 and an analog pH board by Atlas Scientific, and the server is written in Python with FastAPI. It always stores the raw readings and computes the pH value with the calibration valid at the time, so every measurement can be traced back. The readings are available without a login in a dashboard, as a CSV or JSON export and through an open API. So far the measurement setup runs on my desk, while the firmware of the box and its housing are still to come.
+
+[pH Sensor Box on GitHub](https://github.com/winf-hsos/ph-sensorbox) · MIT licence

@@ -313,6 +313,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#labelbench" id="toc-labelbench" class="nav-link" data-scroll-target="#labelbench">LabelBench</a></li>
   <li><a href="#lecture-recorder" id="toc-lecture-recorder" class="nav-link" data-scroll-target="#lecture-recorder">Lecture Recorder</a></li>
   <li><a href="#markwise" id="toc-markwise" class="nav-link" data-scroll-target="#markwise">Markwise</a></li>
+  <li><a href="#ph-sensor-box" id="toc-ph-sensor-box" class="nav-link" data-scroll-target="#ph-sensor-box">pH Sensor Box</a></li>
   </ul>
 </nav>
     </div>
@@ -391,6 +392,22 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <p>A desktop app for paper exams: it keeps a bank of multiple-choice and free-text questions, builds exams from it, reads the scanned answer sheets and turns them into grades. Free-text answers are marked by hand on paper, with the points ticked in a box strip that the scan reads as well. Markwise runs natively on Windows, needs neither Linux nor LaTeX, and is meant for examiners without any technical background.</p>
 <p><a href="https://github.com/winf-hsos/markwise">Markwise on GitHub</a></p>
+</section>
+<section id="ph-sensor-box" class="level2">
+<h2 class="anchored" data-anchor-id="ph-sensor-box">pH Sensor Box</h2>
+<div class="callout callout-style-simple callout-note no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>In development.</p>
+</div>
+</div>
+</div>
+<p>An open-source device that measures pH in the lab, which I started in October 2026. It is designed as a small 3D-printed box with a pH electrode and a temperature probe that measures continuously and sends its readings over Wi-Fi to a central server, where they can be followed live in the browser and downloaded at any time. It is meant as an affordable alternative that labs can build themselves, since commercial pH meters usually release their data only through the manufacturer’s software or fixed export formats.</p>
+<p>The box is built from Tinkerforge modules around an ESP32 and an analog pH board by Atlas Scientific, and the server is written in Python with FastAPI. It always stores the raw readings and computes the pH value with the calibration valid at the time, so every measurement can be traced back. The readings are available without a login in a dashboard, as a CSV or JSON export and through an open API. So far the measurement setup runs on my desk, while the firmware of the box and its housing are still to come.</p>
+<p><a href="https://github.com/winf-hsos/ph-sensorbox">pH Sensor Box on GitHub</a> · MIT licence</p>
 
 
 </section>
