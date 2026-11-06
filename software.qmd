@@ -9,7 +9,7 @@ These are tools I built because I needed them in my own teaching and research. A
 
 Slide decks as HTML: one file per deck, drawings as SVG, live demonstrators embedded right on the slide, and the whole design taken from a single theme file. Decks build up step by step instead of animating, open speaker notes in a second window, offer a laser pointer, and export to PDF.
 
-stagekit started in the LiFi Project and now carries my lectures and talks. It comes with a skill that lets an AI agent build new decks following its rules, so the design stays consistent from one deck to the next. You can see it at work on the course websites of the [LiFi Project](https://docs.lifi-project.de/) and [Artificial Intelligence](https://ai.hands-on-computer-science.de/).
+stagekit started in the LiFi Project and now carries my lectures and talks. It comes with a skill that lets an AI agent build new decks following its rules, so the design stays consistent from one deck to the next. You can see it at work in the [LiFi Project](https://hands-on-computer-science.de/cs/en/projects/lifi/) and in [Hands-on Artificial Intelligence](https://hands-on-computer-science.de/ai/en/).
 
 [stagekit on GitHub](https://github.com/winf-hsos/stagekit) · MIT licence
 

@@ -50,7 +50,7 @@ In our first-semester module *Digitization and Programming*, students build a sm
 </div>
 ```
 
-Everything about the project is on the [course website](https://docs.lifi-project.de/).
+Everything about the project is on the [course website](https://hands-on-computer-science.de/cs/en/projects/lifi/).
 
 ## Latest Project: FLEX^3^
 
