@@ -18,14 +18,7 @@
     "href": "teaching.html#course-websites",
     "title": "Teaching",
     "section": "Course Websites",
-    "text": "Course Websites\nTwo of my courses have their own websites with all the material in one place, from the slides to the experiments and practice questions:\n\nLiFi Project for Digitization and Programming, in which first-semester students build a device that sends files with light and learn along the way how computers represent, store, transfer and process information.\nArtificial Intelligence for Problem Solving with Artificial Intelligence and Applications of Artificial Intelligence, which explains how an AI agent works, from the language model inside it down to the idea of learning from data, with an experiment in every session."
-  },
-  {
-    "objectID": "teaching.html#books",
-    "href": "teaching.html#books",
-    "title": "Teaching",
-    "section": "Books",
-    "text": "Books\nI published the following books as accompaniment to my courses. They are available for free online:\n\nHands-On Computer Science\nHands-On Exploratory Data Analysis"
+    "text": "Course Websites\nMy teaching material is on the Hands-on Computer Science platform, freely accessible and without signing in, for self-study and alongside my lectures. It has three parts:\n\nHands-on Computer Science with lessons, experiments and stories about computer science, including the LiFi Project from Digitization and Programming.\nHands-on Artificial Intelligence, which explains what an AI agent does and why, from the language model through training to learning from data.\nHands-on Data Science on asking, preparing, showing and explaining data with R, Python and language models."
   },
   {
     "objectID": "research.html",
@@ -123,7 +116,7 @@
     "href": "software.html#stagekit",
     "title": "Software",
     "section": "stagekit",
-    "text": "stagekit\nSlide decks as HTML: one file per deck, drawings as SVG, live demonstrators embedded right on the slide, and the whole design taken from a single theme file. Decks build up step by step instead of animating, open speaker notes in a second window, offer a laser pointer, and export to PDF.\nstagekit started in the LiFi Project and now carries my lectures and talks. It comes with a skill that lets an AI agent build new decks following its rules, so the design stays consistent from one deck to the next. You can see it at work on the course websites of the LiFi Project and Artificial Intelligence.\nstagekit on GitHub · MIT licence"
+    "text": "stagekit\nSlide decks as HTML: one file per deck, drawings as SVG, live demonstrators embedded right on the slide, and the whole design taken from a single theme file. Decks build up step by step instead of animating, open speaker notes in a second window, offer a laser pointer, and export to PDF.\nstagekit started in the LiFi Project and now carries my lectures and talks. It comes with a skill that lets an AI agent build new decks following its rules, so the design stays consistent from one deck to the next. You can see it at work in the LiFi Project and in Hands-on Artificial Intelligence.\nstagekit on GitHub · MIT licence"
   },
   {
     "objectID": "software.html#labelbench",

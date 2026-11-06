@@ -1,6 +1,6 @@
 # Teaching
 
-Current teaching activities of Prof. Dr. Nicolas Meseth. Includes offered courses, materials, and text books.
+Current teaching activities of Prof. Dr. Nicolas Meseth. Includes offered courses and course materials.
 
 ## Modules
 
@@ -25,14 +25,8 @@ Furthermore, I offer the following courses in co-supervision with two colleagues
 
 ## Course Websites
 
-Two of my courses have their own websites with all the material in one place, from the slides to the experiments and practice questions:
+My teaching material is on the Hands-on Computer Science platform, freely accessible and without signing in, for self-study and alongside my lectures. It has three parts:
 
-- [LiFi Project](https://docs.lifi-project.de/) for *Digitization and Programming*, in which first-semester students build a device that sends files with light and learn along the way how computers represent, store, transfer and process information.
-- [Artificial Intelligence](https://ai.hands-on-computer-science.de/) for *Problem Solving with Artificial Intelligence* and *Applications of Artificial Intelligence*, which explains how an AI agent works, from the language model inside it down to the idea of learning from data, with an experiment in every session.
-
-## Books
-
-I published the following books as accompaniment to my courses. They are available for free online:
-
-- [Hands-On Computer Science](https://cs.hands-on-computer-science.de/)
-- [Hands-On Exploratory Data Analysis](https://data.hands-on-computer-science.de/)
+- [Hands-on Computer Science](https://hands-on-computer-science.de/cs/en/) with lessons, experiments and stories about computer science, including the [LiFi Project](https://hands-on-computer-science.de/cs/en/projects/lifi/) from *Digitization and Programming*.
+- [Hands-on Artificial Intelligence](https://hands-on-computer-science.de/ai/en/), which explains what an AI agent does and why, from the language model through training to learning from data.
+- [Hands-on Data Science](https://hands-on-computer-science.de/ds/en/) on asking, preparing, showing and explaining data with R, Python and language models.
